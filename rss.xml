@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[XBO.io]]></title>
-        <description><![CDATA[XBO.io]]></description>
-        <link>https://thegrid.ai/xbo/</link>
+        <title><![CDATA[XBOX ONE News and much more]]></title>
+        <description><![CDATA[XBOX ONE News and much more]]></description>
+        <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 17:47:44 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/xbo/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 07:47:27 GMT</lastBuildDate>
+        <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Roblox - Check Out the Latest Game Updates!]]></title>
+            <description><![CDATA[<article><h1>Roblox - Check Out the Latest Game Updates!</h1><p>Community Created Gaming. Limitless Possibilities. All the games on ROBLOX are created by gamers like you! Play solo or with friends in a variety of indie games exclusive to ROBLOX. Find Strategy, Platformer, Role Playing, Tycoon, Shooter, Survival games and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a29ace304c62edfe57b33f5860d25bbe57b62d3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=BHw0CQXj6Bo</link>
+            <guid isPermaLink="false">2be1325e-34c5-4ff3-aa7f-49c6685a44c0</guid>
+            <pubDate>Wed, 30 Mar 2016 07:47:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
             <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 04 April 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/778950114ff6fc98cbd7016a81042fcb0677aae7.jpg"></article>]]></description>
