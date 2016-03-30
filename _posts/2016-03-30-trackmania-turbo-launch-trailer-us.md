@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Xbox
-    url: 'https://www.youtube.com/user/xbox'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=eBUx9R_g8Zo'
+inLanguage: en
+starred: true
 keywords:
   - duration
   - gameplay
@@ -21,7 +17,13 @@ keywords:
   - lego
   - '249'
 description: 'Trackmania offers you the ultimate arcade racing universe where everything is about reaching the perfect racing time. Test your skills in over 200 tracks, experience immediate fun by challenging your friends at home (offline splitscreen) or online. The competition lasts forever: design and share your own tracks with other players in the Trackbuilder!'
-inLanguage: en
+datePublished: '2016-03-30T08:01:03.395Z'
+dateModified: '2016-03-30T08:00:54.389Z'
+author:
+  - name: Xbox
+    url: 'https://www.youtube.com/user/xbox'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=eBUx9R_g8Zo&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=eBUx9R_g8Zo'
 title: 'Trackmania Turbo Launch Trailer [US]'
-datePublished: '2016-03-30T07:47:10.322Z'
-dateModified: '2016-03-30T07:40:52.230Z'
 sourcePath: _posts/2016-03-30-trackmania-turbo-launch-trailer-us.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
