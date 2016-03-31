@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://majornelson.com'
   name: 'Xbox Live&#039;s Major Nelson'
-  favicon: 'http://majornelson.com/favicon.ico'
   domain: majornelson.com
+  url: 'http://majornelson.com'
+  favicon: 'http://majornelson.com/favicon.ico'
 keywords:
   - xbox
   - dlc
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://majornelson.com/2016/03/28/this-weeks-deals-with-gold-and-spotlight-sale-43/'
 title: "This Week's Deals With Gold And Spotlight Sale"
-datePublished: '2016-03-29T17:47:43.403Z'
-dateModified: '2016-03-29T17:47:19.932Z'
+datePublished: '2016-03-31T16:04:04.097Z'
+dateModified: '2016-03-31T16:03:11.751Z'
 sourcePath: _posts/2016-03-29-this-weeks-deals-with-gold-and-spotlight-sale.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
