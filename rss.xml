@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[XBOX ONE News and much more]]></title>
-        <description><![CDATA[XBOX ONE News and much more]]></description>
+        <title><![CDATA[XBOX News and much more]]></title>
+        <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 09:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 15:59:42 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trackmania Turbo Launch Trailer [US]]]></title>
@@ -12,6 +12,20 @@
             <link>https://www.youtube.com/watch?v=eBUx9R_g8Zo</link>
             <guid isPermaLink="false">114d5d97-4f11-4f08-ae8f-ec9cafcac607</guid>
             <pubDate>Wed, 30 Mar 2016 08:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PLATINUM DEMO - FINAL FANTASY XV]]></title>
+            <description><![CDATA[<article><h1>PLATINUM DEMO - FINAL FANTASY XV</h1><p>PLATINUM DEMO - FINAL FANTASY XV whisks players away to a fragmented dreamscape, introducing an original story with a number of unique twists. Join young Noctis and his magical guide, Carbuncle as you explore the fantastical world of his dreams. You will be able to explore driving, magic, and the latest combat system in this exclusive gameplay experience, which won't be available in the main game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb136568baf39ab76c44d29b44704610ccdc49bb.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yoFL9gJDz38</link>
+            <guid isPermaLink="false">dfb6f119-8f0b-4790-9c51-9f351ea7d3a8</guid>
+            <pubDate>Thu, 31 Mar 2016 15:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FINAL FANTASY XV: Reclaim Your Throne trailer]]></title>
+            <description><![CDATA[<article><h1>FINAL FANTASY XV: Reclaim Your Throne trailer</h1><p>The latest FINAL FANTASY XV trailer "Reclaim Your Throne" reveals the iconic Astral - Titan. In addition to that, the latest trailer features new music tracks from composer Yoko Shimomura and a fresh cover of the iconic song "Stand by Me" re-imagined by Florence + the Machine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a253275e9cf1d63b002f113c3493a113c77dc30f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=RIWgS9kSV8s</link>
+            <guid isPermaLink="false">790cbb75-5873-49ec-b891-a86ffb00ed2b</guid>
+            <pubDate>Thu, 31 Mar 2016 15:59:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Superhot Is a Refreshing New Twist on the Old Shooter Recipe]]></title>
