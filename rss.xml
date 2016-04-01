@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 08:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 08:11:02 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Starting today, anyone can turn their Xbox One into a dev kit for free]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit</link>
             <guid isPermaLink="false">3dbfe890-3f97-45bc-906a-a529242e747e</guid>
             <pubDate>Fri, 01 Apr 2016 06:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghosts of Meridian Release Coming Next Week to Halo 5: Guardians]]></title>
+            <description><![CDATA[<article><h1>Ghosts of Meridian Release Coming Next Week to Halo 5: Guardians</h1><p>Ghosts of Meridian - the latest, free content release for Halo 5: Guardians - arrives next week. The release includes two new maps, new weapons and vehicles, new visual customizations, and more. 343 Industries will be showcasing all the new Ghosts of Meridian content during a livestream on Tuesday, April 5 from 3 p.m.</p><img src="http://news.xbox.com/wp-content/uploads/Halo-5-Guardians-Skirmish-at-Darkstar-Hammer-940x528.jpg"></article>]]></description>
+            <link>http://news.xbox.com/2016/03/31/ghosts-of-meridian-release-coming-next-week-to-halo-5-guardians/</link>
+            <guid isPermaLink="false">50e93b6b-b331-42d2-a3fd-f7ec770fdc9d</guid>
+            <pubDate>Fri, 01 Apr 2016 08:10:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[R.B.I. Baseball 16 now available for Xbox One]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PLATINUM DEMO - FINAL FANTASY XV</h1><p>PLATINUM DEMO - FINAL FANTASY XV whisks players away to a fragmented dreamscape, introducing an original story with a number of unique twists. Join young Noctis and his magical guide, Carbuncle as you explore the fantastical world of his dreams. You will be able to explore driving, magic, and the latest combat system in this exclusive gameplay experience, which won't be available in the main game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb136568baf39ab76c44d29b44704610ccdc49bb.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=yoFL9gJDz38</link>
             <guid isPermaLink="false">dfb6f119-8f0b-4790-9c51-9f351ea7d3a8</guid>
-            <pubDate>Thu, 31 Mar 2016 15:59:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FINAL FANTASY XV: Reclaim Your Throne trailer]]></title>
-            <description><![CDATA[<article><h1>FINAL FANTASY XV: Reclaim Your Throne trailer</h1><p>The latest FINAL FANTASY XV trailer "Reclaim Your Throne" reveals the iconic Astral - Titan. In addition to that, the latest trailer features new music tracks from composer Yoko Shimomura and a fresh cover of the iconic song "Stand by Me" re-imagined by Florence + the Machine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a253275e9cf1d63b002f113c3493a113c77dc30f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=RIWgS9kSV8s</link>
-            <guid isPermaLink="false">790cbb75-5873-49ec-b891-a86ffb00ed2b</guid>
             <pubDate>Thu, 31 Mar 2016 15:59:39 GMT</pubDate>
         </item>
     </channel>
