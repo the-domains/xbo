@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.polygon.com'
   name: Polygon
-  favicon: 'https://cdn3.vox-cdn.com/community_logos/42931/favicon.ico'
   domain: www.polygon.com
+  url: 'http://www.polygon.com'
+  favicon: 'https://cdn3.vox-cdn.com/community_logos/42931/favicon.ico'
 keywords:
   - xbox
   - dev
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit'
 title: 'Starting today, anyone can turn their Xbox One into a dev kit for free'
-datePublished: '2016-04-01T05:52:20.830Z'
-dateModified: '2016-04-01T05:48:35.923Z'
+datePublished: '2016-04-01T06:14:13.812Z'
+dateModified: '2016-04-01T06:13:58.090Z'
 sourcePath: _posts/2016-04-01-starting-today-anyone-can-turn-their-xbox-one-into-a-dev-ki.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
