@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 06:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 08:04:32 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Starting today, anyone can turn their Xbox One into a dev kit for free]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit</link>
             <guid isPermaLink="false">3dbfe890-3f97-45bc-906a-a529242e747e</guid>
             <pubDate>Fri, 01 Apr 2016 06:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mirror's Edge Catalyst Developer Diary - City and Narrative]]></title>
+            <description><![CDATA[<article><h1>Mirror's Edge Catalyst Developer Diary - City and Narrative</h1><p>Explore the depth of the city and story of Mirror's Edge™ Catalyst. Learn how DICE tackled Faith's background story, architectural design, the factions within the city of Glass, and the challenge of portraying city nightlife. Learn more: http://www.xbox.com/en-US/games/mirrors-edge-catalyst</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4dfd1c38c586cd6c3f074e10a4dc68369128c0c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=VCzAakBAcYQ</link>
+            <guid isPermaLink="false">dfff95ec-e4bf-40e4-8878-bada7b33ef52</guid>
+            <pubDate>Fri, 01 Apr 2016 08:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft will combine the Windows 10 and Xbox One app stores]]></title>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/03/25/a-closer-look-at-superhot/</link>
             <guid isPermaLink="false">7b806180-1cda-41d5-83dd-0055403c4b53</guid>
             <pubDate>Wed, 30 Mar 2016 09:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MNR 565: Halo WC, WWAP and more by Larry Hryb (Major Nelson)]]></title>
-            <description><![CDATA[<article><h1>MNR 565: Halo WC, WWAP and more by Larry Hryb (Major Nelson)</h1><p>Larry Hryb, Xbox Major Nelson Gamertag: lollip0p Gamertag: Rubes Name The Game And more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4c7513dd567873fb9406599836252858bafd61b.jpg"></article>]]></description>
-            <link>https://soundcloud.com/xbox/mnr-565-halo-wc-wwap-and-more</link>
-            <guid isPermaLink="false">9e5e8de5-4e0b-4916-ab0e-c6c6e61df6ca</guid>
-            <pubDate>Wed, 30 Mar 2016 08:07:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
