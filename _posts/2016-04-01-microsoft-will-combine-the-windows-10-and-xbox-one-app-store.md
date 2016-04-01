@@ -25,12 +25,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theverge.com/2016/3/30/11332012/windows-10-xbox-app-stores-combining-microsoft'
 title: Microsoft will combine the Windows 10 and Xbox One app stores
-datePublished: '2016-04-01T05:52:20.822Z'
-dateModified: '2016-04-01T05:52:12.093Z'
+datePublished: '2016-04-01T06:14:21.315Z'
+dateModified: '2016-04-01T06:13:54.040Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 sourcePath: _posts/2016-04-01-microsoft-will-combine-the-windows-10-and-xbox-one-app-store.md
 published: true
