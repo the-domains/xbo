@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 08:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 08:35:02 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Week on Xbox: April 1, 2016]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit</link>
             <guid isPermaLink="false">3dbfe890-3f97-45bc-906a-a529242e747e</guid>
             <pubDate>Fri, 01 Apr 2016 06:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homefront: The Revolution 'Ignite' Trailer (Official)]]></title>
+            <description><![CDATA[<article><h1>Homefront: The Revolution 'Ignite' Trailer (Official)</h1><p>Playing as freedom fighter Ethan Brady, the ultimate goal in Homefront is to inspire the people to rise up against the brutal military occupation and ignite the revolution. 'Hearts and Minds' represents the state of uprising across the oppressed Yellow Zones of occupied Philadelphia, and will increase as the player performs acts of resistance, such as destroying KPA infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c699663d5dba8b814a231030f3a57df80fa2e5e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=d0giMPRKt7A</link>
+            <guid isPermaLink="false">9acb5aff-8d39-4203-a331-862b7af56477</guid>
+            <pubDate>Sat, 02 Apr 2016 08:34:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eli Roth's "The Witches" Dark Souls Animated Trailer]]></title>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/03/30/xbox-at-build-2016/</link>
             <guid isPermaLink="false">dfd6666b-98a1-4b9d-8ee5-97f9191fab77</guid>
             <pubDate>Fri, 01 Apr 2016 05:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free Incursions DLC for The Division Coming April 12, New Features Revealed - UbiBlog - Ubisoft®]]></title>
-            <description><![CDATA[<article><h1>Free Incursions DLC for The Division Coming April 12, New Features Revealed - UbiBlog - Ubisoft®</h1><p>The first of two free expansions for The Division, titled Incursions, has been confirmed for arrival on Xbox One, PlayStation 4, and PC on April 12. Revealed in depth during today's community livestream, Incursions adds a new endgame activity specifically designed for squad play, and rewards teams that come out victorious with high-level loot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2504b7ae5688a9ee88cb76b7c6abc0239fd3ecde.jpg"></article>]]></description>
-            <link>http://blog.ubi.com/free-incursions-dlc-for-the-division-coming-date/</link>
-            <guid isPermaLink="false">a1424bd4-af68-4ffa-a71e-749c7fea1b6a</guid>
-            <pubDate>Thu, 31 Mar 2016 21:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
