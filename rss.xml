@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 08:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 08:35:33 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Week on Xbox: April 1, 2016]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit</link>
             <guid isPermaLink="false">3dbfe890-3f97-45bc-906a-a529242e747e</guid>
             <pubDate>Fri, 01 Apr 2016 06:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free Multiplayer Weekend on Xbox 360 - April 1-3]]></title>
+            <description><![CDATA[<article><h1>Free Multiplayer Weekend on Xbox 360 - April 1-3</h1><p>Try multiplayer free on Xbox 360 from 4/1 through 4/3. It's the perfect time to experience the best of your games and play online with friends. Games sold separately.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd76da1eb66be1682a78be18e5a3c18508e4c5d2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fPTxAg_aOwQ</link>
+            <guid isPermaLink="false">90e7ecb0-113e-4bd2-892f-bf93ddfdd3ab</guid>
+            <pubDate>Sat, 02 Apr 2016 08:34:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Homefront: The Revolution 'Ignite' Trailer (Official)]]></title>
@@ -68,13 +75,6 @@
             <link>http://majornelson.com/2016/03/28/this-weeks-deals-with-gold-and-spotlight-sale-43/</link>
             <guid isPermaLink="false">73bf3dbb-35aa-4cdf-8d8e-dd7a4902f4bf</guid>
             <pubDate>Thu, 31 Mar 2016 16:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xbox Talks UWP, Gaming on Windows 10, and Xbox Dev Mode at Build 2016]]></title>
-            <description><![CDATA[<article><h1>Xbox Talks UWP, Gaming on Windows 10, and Xbox Dev Mode at Build 2016</h1><p>Microsoft's 2016 Build Developer Conference is unfolding at San Francisco's Moscone Center this week - and the Xbox team was in attendance to share its vision and goals for gaming, both on Xbox One and Windows 10, and the future of game development across devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cdef949425c630f085a3093cef48cbac50f8c32.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/03/30/xbox-at-build-2016/</link>
-            <guid isPermaLink="false">dfd6666b-98a1-4b9d-8ee5-97f9191fab77</guid>
-            <pubDate>Fri, 01 Apr 2016 05:52:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
