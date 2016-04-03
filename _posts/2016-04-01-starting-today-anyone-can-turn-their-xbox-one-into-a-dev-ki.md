@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Polygon
-  domain: www.polygon.com
-  url: 'http://www.polygon.com'
-  favicon: 'https://cdn3.vox-cdn.com/community_logos/42931/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit'
+inLanguage: en
+starred: false
 keywords:
   - xbox
   - dev
@@ -18,19 +17,20 @@ keywords:
   - developers
   - apps
 description: 'Microsoft today made good on a nearly three-year-old promise, unlocking the ability for all retail Xbox One consoles to become development kits free of charge. Xbox Dev Mode is available starting today as a preview and will be finalized as a full release this summer.'
-inLanguage: en
+datePublished: '2016-04-03T09:02:08.281Z'
+dateModified: '2016-04-03T09:02:05.665Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit'
 title: 'Starting today, anyone can turn their Xbox One into a dev kit for free'
-datePublished: '2016-04-01T06:14:13.812Z'
-dateModified: '2016-04-01T06:13:58.090Z'
 sourcePath: _posts/2016-04-01-starting-today-anyone-can-turn-their-xbox-one-into-a-dev-ki.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: Polygon
+  domain: www.polygon.com
+  url: 'http://www.polygon.com'
+  favicon: 'https://cdn3.vox-cdn.com/community_logos/42931/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
