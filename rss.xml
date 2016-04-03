@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 08:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 08:29:56 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Week on Xbox: April 1, 2016]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.polygon.com/2016/3/30/11318568/xbox-one-dev-kit</link>
             <guid isPermaLink="false">3dbfe890-3f97-45bc-906a-a529242e747e</guid>
             <pubDate>Fri, 01 Apr 2016 06:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minecraft: The video game that builds kids' brain cells]]></title>
+            <description><![CDATA[<article><h1>Minecraft: The video game that builds kids' brain cells</h1><p>Microsoft's popular video game Minecraft helps kids learn everything from programming, science and math to art, languages and history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84e2065439dbbd4d88e26902c965368a87f6726e.jpg"></article>]]></description>
+            <link>http://www.cnet.com/special-reports/minecraft/mindcraft-helping-students-learn</link>
+            <guid isPermaLink="false">42b19dca-0f6d-456a-9d2e-f2c7335bfbbf</guid>
+            <pubDate>Sun, 03 Apr 2016 08:29:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Xbox One 500GB Special Edition Quantum Break Bundle Giveaway]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=VCzAakBAcYQ</link>
             <guid isPermaLink="false">dfff95ec-e4bf-40e4-8878-bada7b33ef52</guid>
             <pubDate>Fri, 01 Apr 2016 08:04:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft will combine the Windows 10 and Xbox One app stores]]></title>
-            <description><![CDATA[<article><h1>Microsoft will combine the Windows 10 and Xbox One app stores</h1><p>Microsoft is bringing together its Windows and Xbox app stores. This summer, with the release of Windows 10's Anniversary update, the two stores will be combined into one, creating "a single unified store across devices," says Xbox lead Phil Spencer. With universal apps, Microsoft only needs a single store It's a natural next step for Windows 10.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c640bc3992274754f30cc27ae55491ac09ffe9ed.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/3/30/11332012/windows-10-xbox-app-stores-combining-microsoft</link>
-            <guid isPermaLink="false">1740c3c6-6e70-4f21-a84c-5face856fbdc</guid>
-            <pubDate>Fri, 01 Apr 2016 06:14:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
