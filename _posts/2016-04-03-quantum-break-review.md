@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.polygon.com/2016/4/1/11240354/quantum-break-review-xbox-one-pc'
 title: Quantum Break review
-datePublished: '2016-04-03T08:53:52.338Z'
-dateModified: '2016-04-03T08:53:45.153Z'
+datePublished: '2016-04-03T09:05:11.474Z'
+dateModified: '2016-04-03T09:02:14.253Z'
 inFeed: true
 hasPage: false
 inNav: false
