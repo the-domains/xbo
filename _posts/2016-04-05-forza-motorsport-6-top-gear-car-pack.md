@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - xbox
   - duration
@@ -61,13 +61,15 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=jCKXv20Zw64'
 title: Forza Motorsport 6 Top Gear Car Pack
-datePublished: '2016-04-05T15:28:16.230Z'
-dateModified: '2016-04-05T15:13:56.100Z'
+datePublished: '2016-04-05T15:29:02.224Z'
+dateModified: '2016-04-05T15:28:59.045Z'
 sourcePath: _posts/2016-04-05-forza-motorsport-6-top-gear-car-pack.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
