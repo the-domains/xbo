@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 15:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 15:29:24 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quantum Break review]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.polygon.com/2016/4/1/11240354/quantum-break-review-xbox-one-pc</link>
             <guid isPermaLink="false">1f521536-bfeb-4350-bc8d-4727dbfff655</guid>
             <pubDate>Sun, 03 Apr 2016 09:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forza Motorsport 6 Top Gear Car Pack]]></title>
+            <description><![CDATA[<article><h1>Forza Motorsport 6 Top Gear Car Pack</h1><p>Releasing today, the Top Gear Car Pack for Forza Motorsport 6 builds on the tradition of amazing Top Gear content in the Forza Motorsport franchise, bringing seven brand new cars exclusively to the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9643e664eb1c3a44051ab062fd0370e373b6bd5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jCKXv20Zw64</link>
+            <guid isPermaLink="false">a30bdde6-88fc-4ea8-a233-650427a40352</guid>
+            <pubDate>Tue, 05 Apr 2016 15:28:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fallout 4 - Wasteland Workshop Official Trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Free Multiplayer Weekend on Xbox 360 - April 1-3</h1><p>Try multiplayer free on Xbox 360 from 4/1 through 4/3. It's the perfect time to experience the best of your games and play online with friends. Games sold separately.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd76da1eb66be1682a78be18e5a3c18508e4c5d2.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=fPTxAg_aOwQ</link>
             <guid isPermaLink="false">90e7ecb0-113e-4bd2-892f-bf93ddfdd3ab</guid>
-            <pubDate>Sat, 02 Apr 2016 08:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homefront: The Revolution 'Ignite' Trailer (Official)]]></title>
-            <description><![CDATA[<article><h1>Homefront: The Revolution 'Ignite' Trailer (Official)</h1><p>Playing as freedom fighter Ethan Brady, the ultimate goal in Homefront is to inspire the people to rise up against the brutal military occupation and ignite the revolution. 'Hearts and Minds' represents the state of uprising across the oppressed Yellow Zones of occupied Philadelphia, and will increase as the player performs acts of resistance, such as destroying KPA infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c699663d5dba8b814a231030f3a57df80fa2e5e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=d0giMPRKt7A</link>
-            <guid isPermaLink="false">9acb5aff-8d39-4203-a331-862b7af56477</guid>
             <pubDate>Sat, 02 Apr 2016 08:34:59 GMT</pubDate>
         </item>
     </channel>
