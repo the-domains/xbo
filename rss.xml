@@ -4,15 +4,8 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 13:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 13:56:28 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA['Gears of War 4' release date and cover art revealed - exclusive]]></title>
-            <description><![CDATA[<article><h1>'Gears of War 4' release date and cover art revealed - exclusive</h1><p>Anticipation has been building for Gears of War 4 ever since it was revealed last June during Microsoft's E3 press conference, but very little was known about the game until recently. It's been nearly five years since Gears of War 3 wrapped up the bestselling Xbox 360 trilogy and three years since prequel Gears of War: Judgment.</p><img src="http://www.ew.com/sites/default/files/i/2016/04/05/ghsfsgh-gears-of-war-4-vertical_1.jpg"></article>]]></description>
-            <link>http://www.ew.com/article/2016/04/06/gears-war-4-release-date-cover-art</link>
-            <guid isPermaLink="false">494e8ec3-0b98-4a69-958d-47cdd1e36aa6</guid>
-            <pubDate>Wed, 06 Apr 2016 13:55:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Forza Motorsport 6 Top Gear Car Pack]]></title>
             <description><![CDATA[<article><h1>Forza Motorsport 6 Top Gear Car Pack</h1><p>Releasing today, the Top Gear Car Pack for Forza Motorsport 6 builds on the tradition of amazing Top Gear content in the Forza Motorsport franchise, bringing seven brand new cars exclusively to the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9643e664eb1c3a44051ab062fd0370e373b6bd5.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.cnet.com/special-reports/minecraft/mindcraft-helping-students-learn</link>
             <guid isPermaLink="false">42b19dca-0f6d-456a-9d2e-f2c7335bfbbf</guid>
             <pubDate>Sun, 03 Apr 2016 08:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xbox One 500GB Special Edition Quantum Break Bundle Giveaway]]></title>
+            <description><![CDATA[<article><h1>Xbox One 500GB Special Edition Quantum Break Bundle Giveaway</h1><p>Quantum Break is set to release on 05 April and what better way to celebrate the launch of one of the year's most anticipated titles than by giving away an Xbox One 500GB Special Edition Quantum Break Bundle and other cool prizes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e684699ba66886dee668e38fbfa65f60d22aa4e.png"></article>]]></description>
+            <link>https://majornelson.com/2016/04/01/xbox-one-500gb-special-edition-quantum-break-bundle-giveaway/</link>
+            <guid isPermaLink="false">e58d09dc-2d3f-4f52-88e3-340e6b9586eb</guid>
+            <pubDate>Sat, 02 Apr 2016 08:41:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
