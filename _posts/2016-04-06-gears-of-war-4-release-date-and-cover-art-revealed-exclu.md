@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.ew.com'
-  name: "Entertainment Weekly's EW.com"
-  favicon: 'http://www.ew.com/sites/all/themes/ew_desktop/favicon.ico'
-  domain: www.ew.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.ew.com/article/2016/04/06/gears-war-4-release-date-cover-art'
+inLanguage: en
+starred: false
 keywords:
   - gears
   - multiplayer
@@ -18,17 +17,20 @@ keywords:
   - sort
   - fergusson
 description: "Anticipation has been building for Gears of War 4 ever since it was revealed last June during Microsoft's E3 press conference, but very little was known about the game until recently. It's been nearly five years since Gears of War 3 wrapped up the bestselling Xbox 360 trilogy and three years since prequel Gears of War: Judgment."
-inLanguage: en
+datePublished: '2016-04-06T14:25:39.656Z'
+dateModified: '2016-04-06T14:25:31.621Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.ew.com/article/2016/04/06/gears-war-4-release-date-cover-art'
 title: "'Gears of War 4' release date and cover art revealed - exclusive"
-datePublished: '2016-04-06T13:55:44.485Z'
-dateModified: '2016-04-06T13:55:10.282Z'
 sourcePath: _posts/2016-04-06-gears-of-war-4-release-date-and-cover-art-revealed-exclu.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: "Entertainment Weekly's EW.com"
+  domain: www.ew.com
+  url: 'http://www.ew.com'
+  favicon: 'http://www.ew.com/sites/all/themes/ew_desktop/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
