@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 07:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 09:23:17 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Battleborn Bootcamp Trailer]]></title>
+            <description><![CDATA[<article><h1>Battleborn Bootcamp Trailer</h1><p>How do you sort through all of the chaos at the end of the universe? Don't worry, we've got just the thing! If you don't know what Battleborn is - or just need some help sorting the nihilistic robots from the star-consuming extradimensional horrors - watch this trailer to get ALL of the details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32a2823958357e267b4f3b4ce2637b8503bd9c38.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=HCShiEI0pSc</link>
+            <guid isPermaLink="false">ca3f9c4b-2882-4b9e-8523-8733859996da</guid>
+            <pubDate>Sat, 09 Apr 2016 09:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Halo 5: Guardians - Ghosts of Meridian Launch Trailer]]></title>
             <description><![CDATA[<article><h1>Halo 5: Guardians - Ghosts of Meridian Launch Trailer</h1><p>The incredible Halo sandbox on Xbox One continues to grow with the Ghosts of Meridian Content Release for Halo 5: Guardians. This sweet salvo adds even more cosmetic items to collect, such a weapons, armor, and much more. Plus, turn the tide of battle with powerful new vehicles as you play across two brand new maps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9875e570271cbd459aaaecf38c7f221bdc4c9841.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Experience Top Gear's Favorite Rides with the New Forza Motorsport 6 Car Pack</h1><p>Releasing today, the Top Gear Car Pack for Forza Motorsport 6 builds on the tradition of amazing Top Gear content in the Forza Motorsport franchise, bringing seven brand new cars exclusively to the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/487611803d8d5489be3bdcc198cedea248771284.jpg"></article>]]></description>
             <link>http://news.xbox.com/2016/04/05/forza-motorsport-6-top-gear-car-pack/</link>
             <guid isPermaLink="false">e2918d4a-57ae-4dcc-b516-a558967bbca8</guid>
-            <pubDate>Tue, 05 Apr 2016 15:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Critically-Acclaimed Quantum Break Now Available on Xbox One and Windows 10]]></title>
-            <description><![CDATA[<article><h1>Critically-Acclaimed Quantum Break Now Available on Xbox One and Windows 10</h1><p>Microsoft Studios and Remedy Entertainment's action-packed thriller - Quantum Break - is now available on Xbox One and Windows 10. The Xbox One version can be purchased at the Xbox Store, Microsoft stores and microsoftstore.com, and most major retailers worldwide. The Windows 10 version can be purchased and downloaded through the Windows store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff9b60e08ae24d88e0d3242b64308906f5aca65c.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/04/05/quantum-break-now-available-xbox/</link>
-            <guid isPermaLink="false">88a23082-64cc-4e3f-b2ab-dc50162e4a89</guid>
             <pubDate>Tue, 05 Apr 2016 15:28:16 GMT</pubDate>
         </item>
     </channel>
