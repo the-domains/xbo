@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 09:23:44 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[7 Days to Die - Announcement Trailer]]></title>
+            <description><![CDATA[<article><h1>7 Days to Die - Announcement Trailer</h1><p>Set in a brutally unforgiving post-apocalyptic world overrun by the undead, 7 Days to Die is an open-world survival game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5189ee0f64002edc3a786029dec787f541cf8239.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=7KZNdq-JBf0</link>
+            <guid isPermaLink="false">b1035e2a-2894-4b42-9066-0c5068ddb64e</guid>
+            <pubDate>Sat, 09 Apr 2016 09:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Battleborn Bootcamp Trailer]]></title>
             <description><![CDATA[<article><h1>Battleborn Bootcamp Trailer</h1><p>How do you sort through all of the chaos at the end of the universe? Don't worry, we've got just the thing! If you don't know what Battleborn is - or just need some help sorting the nihilistic robots from the star-consuming extradimensional horrors - watch this trailer to get ALL of the details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32a2823958357e267b4f3b4ce2637b8503bd9c38.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Fallout 4 - Wasteland Workshop Official Trailer</h1><p>Watch the official trailer for Wasteland Workshop, the second game add-on for Fallout 4. Wasteland Workshop will be available on Tuesday, April 12. With the Wasteland Workshop, design and set cages to capture live creatures - from raiders to Deathclaws! Tame them or have them face off in battle, even against your fellow settlers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6352d7cc72c9835ae2fdcc57c8005163263ce4dc.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Ql0rD22BR3A</link>
             <guid isPermaLink="false">91b89e57-011a-40e7-914d-0d4b2c0e73d0</guid>
-            <pubDate>Tue, 05 Apr 2016 15:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Experience Top Gear's Favorite Rides with the New Forza Motorsport 6 Car Pack]]></title>
-            <description><![CDATA[<article><h1>Experience Top Gear's Favorite Rides with the New Forza Motorsport 6 Car Pack</h1><p>Releasing today, the Top Gear Car Pack for Forza Motorsport 6 builds on the tradition of amazing Top Gear content in the Forza Motorsport franchise, bringing seven brand new cars exclusively to the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/487611803d8d5489be3bdcc198cedea248771284.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/04/05/forza-motorsport-6-top-gear-car-pack/</link>
-            <guid isPermaLink="false">e2918d4a-57ae-4dcc-b516-a558967bbca8</guid>
             <pubDate>Tue, 05 Apr 2016 15:28:16 GMT</pubDate>
         </item>
     </channel>
