@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 09:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 07:47:14 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MNR 566: Quantum Break's Sam Lake and more by Larry Hryb (Major Nelson)]]></title>
+            <description><![CDATA[<article><h1>MNR 566: Quantum Break's Sam Lake and more by Larry Hryb (Major Nelson)</h1><p>Larry Hryb, Xbox Major Nelson Gamertag: Rubes Guest: litheon Interview: Sam Lake, Remedy Entertainment (18:04 - 34:21) Xbox News And more....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a106745106b9155f7bb5dc26d085bc4113683aa6.jpg"></article>]]></description>
+            <link>https://soundcloud.com/xbox/april-7</link>
+            <guid isPermaLink="false">6ca89b51-86d2-420c-93d1-36a81d1566fa</guid>
+            <pubDate>Sun, 10 Apr 2016 07:47:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Week on Xbox: April 8, 2016]]></title>
             <description><![CDATA[<article><h1>This Week on Xbox: April 8, 2016</h1><p>This week's headlines include the release of Quantum Break, the new Halo 5: Guardians content update, details on Gears of War 4, add-ons for Forza Motorsport 6 and Star Wars Battlefront, plus a whole lot more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2aa847aa8efb7f6c1318d06a624b80f21cec77aa.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://majornelson.com/2016/04/04/this-weeks-deals-with-gold-and-spotlight-sale-44/</link>
             <guid isPermaLink="false">4f2387e9-f0fe-41fb-a64a-89e5e0f9ce5a</guid>
             <pubDate>Wed, 06 Apr 2016 07:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum Break review]]></title>
-            <description><![CDATA[<article><h1>Quantum Break review</h1><p>If nothing else, Quantum Break demonstrates that Finnish developer Remedy Entertainment's priorities remain constant. Remedy has always displayed a flair for putting its own distinct, and often...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4512ea157f522ffe92683db9c49ece89325e769c.jpg"></article>]]></description>
-            <link>http://www.polygon.com/2016/4/1/11240354/quantum-break-review-xbox-one-pc</link>
-            <guid isPermaLink="false">1f521536-bfeb-4350-bc8d-4727dbfff655</guid>
-            <pubDate>Tue, 05 Apr 2016 15:28:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
