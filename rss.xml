@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 07:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 07:30:54 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gears of War 4 Trailer Offers Glimpse of a New Hero and a Nightmare Reborn]]></title>
+            <description><![CDATA[<article><h1>Gears of War 4 Trailer Offers Glimpse of a New Hero and a Nightmare Reborn</h1><p>On Oct. 11, a new generation of heroes will rise and confront an ominous new threat in Gears of War 4, the first chapter of a brand-new saga developed by The Coalition. Today, we're excited to debut our first story trailer, "Tomorrow," which connects the legacy of the Fenix family from father to son and features a foreboding glimpse of the new menace that awaits.</p><img src="https://img.youtube.com/vi/o3f8VgQ_dqk/maxresdefault.jpg"></article>]]></description>
+            <link>http://news.xbox.com/2016/04/10/gears-of-war-4-tomorrow-trailer-debut/</link>
+            <guid isPermaLink="false">cf9256bb-42d7-434a-bcbb-48663ae7343e</guid>
+            <pubDate>Mon, 11 Apr 2016 07:29:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MNR 566: Quantum Break's Sam Lake and more by Larry Hryb (Major Nelson)]]></title>
             <description><![CDATA[<article><h1>MNR 566: Quantum Break's Sam Lake and more by Larry Hryb (Major Nelson)</h1><p>Larry Hryb, Xbox Major Nelson Gamertag: Rubes Guest: litheon Interview: Sam Lake, Remedy Entertainment (18:04 - 34:21) Xbox News And more....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a106745106b9155f7bb5dc26d085bc4113683aa6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=jCKXv20Zw64</link>
             <guid isPermaLink="false">a30bdde6-88fc-4ea8-a233-650427a40352</guid>
             <pubDate>Wed, 06 Apr 2016 13:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
-            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 11 April 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2ed350040052d95fe1c945259171fc333517ccd.jpg"></article>]]></description>
-            <link>https://majornelson.com/2016/04/04/this-weeks-deals-with-gold-and-spotlight-sale-44/</link>
-            <guid isPermaLink="false">4f2387e9-f0fe-41fb-a64a-89e5e0f9ce5a</guid>
-            <pubDate>Wed, 06 Apr 2016 07:19:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
