@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 08:22:35 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Halo 5 Warzone Firefight Gameplay Preview - IGN]]></title>
+            <description><![CDATA[<article><h1>Halo 5 Warzone Firefight Gameplay Preview - IGN</h1><p>Warzone has never been bigger, better, or more threatening. Firefight. The word brings back intense memories for Halo players like me, who spent hours and hours fighting off wave after wave of Covenant forces when the mode was first introduced back in Halo 3: ODST.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e60c322a59b5fee73c87310815d6b6b4d6d29991.jpg"></article>]]></description>
+            <link>http://www.ign.com/articles/2016/04/09/halo-5-warzone-firefight-gameplay-preview</link>
+            <guid isPermaLink="false">34989dbe-90e1-4e97-9733-bf35448f2f1a</guid>
+            <pubDate>Tue, 12 Apr 2016 08:22:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Titanfall 2 Teaser Trailer - PS4, Xbox One and PC]]></title>
             <description><![CDATA[<article><h1>Titanfall 2 Teaser Trailer - PS4, Xbox One and PC</h1><p>Be among the first to discover Titanfall 2: http://x.ea.com/4009 From Respawn Entertainment™, the studio that brought you the award-winning Titanfall™, comes Titanfall™ 2. Subscribe to see the first Titanfall 2 gameplay trailer coming June 12: http://x.ea.com/4122 Titanfall 2 will be available on PS4, Xbox One, and PC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d18c480f45a01b05ab1c493afb6424a6d910310.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Halo 5: Guardians - Ghosts of Meridian Launch Trailer</h1><p>The incredible Halo sandbox on Xbox One continues to grow with the Ghosts of Meridian Content Release for Halo 5: Guardians. This sweet salvo adds even more cosmetic items to collect, such a weapons, armor, and much more. Plus, turn the tide of battle with powerful new vehicles as you play across two brand new maps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9875e570271cbd459aaaecf38c7f221bdc4c9841.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=7tIcf9R9EJY</link>
             <guid isPermaLink="false">a755eb73-187e-41b5-a735-886534d038fc</guid>
-            <pubDate>Thu, 07 Apr 2016 07:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft: Story Mode Skins Out Now for All Console Editions, Pocket Edition and Windows 10]]></title>
-            <description><![CDATA[<article><h1>Minecraft: Story Mode Skins Out Now for All Console Editions, Pocket Edition and Windows 10</h1><p>Hello everybody! Following last week's release of Minecraft: Story Mode Episode 5, today we're bringing you a brand new set of skins to enjoy, across more Minecraft platforms than ever before! The latest skin pack, Minecraft: Story Mode Skin Pack, allows you to make your own adventures as one of the characters from the beloved Telltale Games series!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0add5284b867d8e259312f6df448ded2c769f497.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/04/06/minecraft-story-mode-skins-out-now-all-editions/</link>
-            <guid isPermaLink="false">336b8093-c3f9-48e4-a0e4-336e1cd38ef8</guid>
             <pubDate>Thu, 07 Apr 2016 07:38:59 GMT</pubDate>
         </item>
     </channel>
