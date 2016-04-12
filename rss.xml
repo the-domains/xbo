@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 08:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 08:13:51 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Titanfall 2 Teaser Trailer - PS4, Xbox One and PC]]></title>
+            <description><![CDATA[<article><h1>Titanfall 2 Teaser Trailer - PS4, Xbox One and PC</h1><p>Be among the first to discover Titanfall 2: http://x.ea.com/4009 From Respawn Entertainment™, the studio that brought you the award-winning Titanfall™, comes Titanfall™ 2. Subscribe to see the first Titanfall 2 gameplay trailer coming June 12: http://x.ea.com/4122 Titanfall 2 will be available on PS4, Xbox One, and PC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d18c480f45a01b05ab1c493afb6424a6d910310.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hJ1r2f1Jv0Y</link>
+            <guid isPermaLink="false">8b049b83-1be9-4dd6-b6fa-2ad19f8abbb9</guid>
+            <pubDate>Tue, 12 Apr 2016 08:13:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Official Destiny: The Taken King April Update Preview]]></title>
             <description><![CDATA[<article><h1>Official Destiny: The Taken King April Update Preview</h1><p>Bungie's Live team sounds off on all of the new challenges, rewards, and updates coming to Destiny: The Taken King on April 12th, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/968931dc1e2fbf80fb8d482b87a3a523ca40bdda.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/04/06/minecraft-story-mode-skins-out-now-all-editions/</link>
             <guid isPermaLink="false">336b8093-c3f9-48e4-a0e4-336e1cd38ef8</guid>
             <pubDate>Thu, 07 Apr 2016 07:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quantum Break Accolades Trailer]]></title>
-            <description><![CDATA[<article><h1>Quantum Break Accolades Trailer</h1><p>In the critically acclaimed Quantum Break, Jack Joyce fights for survival in a world where time is broken. With his family in danger and the world at the brink of collapse, Jack must battle the evil Monarch Solutions using the only weapon he has: time itself. Buy now at www.xbox.com/quantumbreak</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334ab4d18d5a98460055423e75faf741f8c115d3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=wQt8sH2Ag0M</link>
-            <guid isPermaLink="false">d1178ea8-21f7-4c71-ad94-f7de7ce2ec22</guid>
-            <pubDate>Wed, 06 Apr 2016 19:07:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
