@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 08:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 08:13:48 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Official Destiny: The Taken King April Update Preview]]></title>
+            <description><![CDATA[<article><h1>Official Destiny: The Taken King April Update Preview</h1><p>Bungie's Live team sounds off on all of the new challenges, rewards, and updates coming to Destiny: The Taken King on April 12th, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/968931dc1e2fbf80fb8d482b87a3a523ca40bdda.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=NpRWHKYDZ2o</link>
+            <guid isPermaLink="false">285e0a2c-2873-4590-991f-4ac93b4d5b18</guid>
+            <pubDate>Tue, 12 Apr 2016 08:13:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alan Wake DLC episodes are free on Xbox]]></title>
             <description><![CDATA[<article><h1>Alan Wake DLC episodes are free on Xbox</h1><p>The expansion packs for Remedy Entertainment's are now available for free on the Xbox Marketplace. Newcomers to the mystery adventure game, which recently became backward compatible with Xbox One, can pick up both "The Writer" and "The Signal" at no charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21db77ae3cdfd18162a7aaa94df3be561c8bc071.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=wQt8sH2Ag0M</link>
             <guid isPermaLink="false">d1178ea8-21f7-4c71-ad94-f7de7ce2ec22</guid>
             <pubDate>Wed, 06 Apr 2016 19:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Gears of War 4' release date and cover art revealed - exclusive]]></title>
-            <description><![CDATA[<article><h1>'Gears of War 4' release date and cover art revealed - exclusive</h1><p>Anticipation has been building for Gears of War 4 ever since it was revealed last June during Microsoft's E3 press conference, but very little was known about the game until recently. It's been nearly five years since Gears of War 3 wrapped up the bestselling Xbox 360 trilogy and three years since prequel Gears of War: Judgment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cdb153ea41fce491667e7a12e64fefa86d64b6b.jpg"></article>]]></description>
-            <link>http://www.ew.com/article/2016/04/06/gears-war-4-release-date-cover-art</link>
-            <guid isPermaLink="false">494e8ec3-0b98-4a69-958d-47cdd1e36aa6</guid>
-            <pubDate>Wed, 06 Apr 2016 14:25:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
