@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 08:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 09:05:17 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
+            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 18 April 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dac9e8c941448bf224aa5a246b60b4b58cc99bd.jpg"></article>]]></description>
+            <link>https://majornelson.com/2016/04/11/this-weeks-deals-with-gold-and-spotlight-sale-45/</link>
+            <guid isPermaLink="false">324dc8d5-f238-46c0-ab5a-5e2fce4883e4</guid>
+            <pubDate>Tue, 12 Apr 2016 09:04:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Halo 5 Warzone Firefight Gameplay Preview - IGN]]></title>
             <description><![CDATA[<article><h1>Halo 5 Warzone Firefight Gameplay Preview - IGN</h1><p>Warzone has never been bigger, better, or more threatening. Firefight. The word brings back intense memories for Halo players like me, who spent hours and hours fighting off wave after wave of Covenant forces when the mode was first introduced back in Halo 3: ODST.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e60c322a59b5fee73c87310815d6b6b4d6d29991.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=HCShiEI0pSc</link>
             <guid isPermaLink="false">ca3f9c4b-2882-4b9e-8523-8733859996da</guid>
             <pubDate>Sat, 09 Apr 2016 09:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halo 5: Guardians - Ghosts of Meridian Launch Trailer]]></title>
-            <description><![CDATA[<article><h1>Halo 5: Guardians - Ghosts of Meridian Launch Trailer</h1><p>The incredible Halo sandbox on Xbox One continues to grow with the Ghosts of Meridian Content Release for Halo 5: Guardians. This sweet salvo adds even more cosmetic items to collect, such a weapons, armor, and much more. Plus, turn the tide of battle with powerful new vehicles as you play across two brand new maps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9875e570271cbd459aaaecf38c7f221bdc4c9841.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=7tIcf9R9EJY</link>
-            <guid isPermaLink="false">a755eb73-187e-41b5-a735-886534d038fc</guid>
-            <pubDate>Thu, 07 Apr 2016 07:38:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
