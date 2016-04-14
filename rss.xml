@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 10:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 08:41:21 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Upcoming Xbox Open Beta Release Schedule]]></title>
+            <description><![CDATA[<article><h1>Upcoming Xbox Open Beta Release Schedule</h1><p>Beta tests can be an important step in the video game development process since it provides developers with bug detection as well as feedback on design and operational readiness in a real world environment. It also provides gamers an opportunity to test and experience these titles firsthand before their official release date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8d4b7deaadfaa48d9863b69cc9cbe812ad1603d.jpg"></article>]]></description>
+            <link>https://majornelson.com/2016/04/13/upcoming-xbox-open-beta-release-schedule/</link>
+            <guid isPermaLink="false">b88495cd-1650-43ab-856b-cc051e13c52c</guid>
+            <pubDate>Thu, 14 Apr 2016 08:41:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tom Clancy's The Division Trailer - Update 1.1: Incursions [US]]]></title>
             <description><![CDATA[<article><h1>Tom Clancy's The Division Trailer - Update 1.1: Incursions [US]</h1><p>Keep exploring New York and advancing your Agent with the first major free update that introduces intense new end-game cooperative missions called Incursions, and other features such as Loot Trading, new gear sets and exotic weapons, Dark Zone supply drops, new assignments and more. RELEASE DATE: April 12th, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b72553cfc2c700399d24deb6ee73df520ba4d068.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/04/10/gears-of-war-4-tomorrow-trailer-debut/</link>
             <guid isPermaLink="false">cf9256bb-42d7-434a-bcbb-48663ae7343e</guid>
             <pubDate>Mon, 11 Apr 2016 07:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MNR 566: Quantum Break's Sam Lake and more by Larry Hryb (Major Nelson)]]></title>
-            <description><![CDATA[<article><h1>MNR 566: Quantum Break's Sam Lake and more by Larry Hryb (Major Nelson)</h1><p>Larry Hryb, Xbox Major Nelson Gamertag: Rubes Guest: litheon Interview: Sam Lake, Remedy Entertainment (18:04 - 34:21) Xbox News And more....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a106745106b9155f7bb5dc26d085bc4113683aa6.jpg"></article>]]></description>
-            <link>https://soundcloud.com/xbox/april-7</link>
-            <guid isPermaLink="false">6ca89b51-86d2-420c-93d1-36a81d1566fa</guid>
-            <pubDate>Sun, 10 Apr 2016 07:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
