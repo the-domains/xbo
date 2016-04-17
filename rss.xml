@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 08:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 21:01:13 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Week on Xbox: April 15, 2016]]></title>
+            <description><![CDATA[<article><h1>This Week on Xbox: April 15, 2016</h1><p>This week features a new trailer for Gears of War 4 and Titanfall 2, lots of beta action happening now, the release of Dark Souls III and much more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01e9bbc70f0aa39f1fe4879751ffc6a0674ec7d9.jpg"></article>]]></description>
+            <link>https://youtu.be/n_2G6e2du_M</link>
+            <guid isPermaLink="false">74200f85-8575-4d6e-b6ef-78a147319683</guid>
+            <pubDate>Sun, 17 Apr 2016 21:01:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Solus Project - Highpoint Expansion]]></title>
             <description><![CDATA[<article><h1>The Solus Project - Highpoint Expansion</h1><p>Free update now available. Humanity is on the verge of extinction. You are the last hope, tasked with finding a safe haven for a colony. But now you are stranded on a deserted alien planet and every other member of your crew is dead. The fate of humanity rests in your hands: you must survive...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/212b2ae5fd561251258fbcc96461175a530225ae.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Coming Soon to Star Wars Battlefront this Spring</h1><p>To the Star Wars™ Battlefront™ community: It's been a busy 2016 for us so far, as we've been working on adding a lot of new, free* content to Star Wars Battlefront, while also launching the first expansion pack as part of Season Pass, Outer Rim.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a02c0f4ef3b1cd8fe1b58a5717c3b72d8f5e460.jpg"></article>]]></description>
             <link>http://starwars.ea.com/starwars/battlefront/news/coming-soon-to-star-wars-battlefront-this-spring?utm_campaign=swbf_hd_ww_ic_soco_twt_swbf-roadahead-4132016-tw&amp;utm_source=twitter&amp;utm_medium=social&amp;cid=4342&amp;ts=1460567841250&amp;sf45703743=1</link>
             <guid isPermaLink="false">d3eb1605-d2df-44e2-8752-97f96efbbe0a</guid>
-            <pubDate>Thu, 14 Apr 2016 08:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upcoming Xbox Open Beta Release Schedule]]></title>
-            <description><![CDATA[<article><h1>Upcoming Xbox Open Beta Release Schedule</h1><p>Beta tests can be an important step in the video game development process since it provides developers with bug detection as well as feedback on design and operational readiness in a real world environment. It also provides gamers an opportunity to test and experience these titles firsthand before their official release date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8d4b7deaadfaa48d9863b69cc9cbe812ad1603d.jpg"></article>]]></description>
-            <link>https://majornelson.com/2016/04/13/upcoming-xbox-open-beta-release-schedule/</link>
-            <guid isPermaLink="false">b88495cd-1650-43ab-856b-cc051e13c52c</guid>
             <pubDate>Thu, 14 Apr 2016 08:41:19 GMT</pubDate>
         </item>
     </channel>
