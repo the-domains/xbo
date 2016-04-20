@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 08:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 06:32:51 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mafia III One Way Road Story Trailer]]></title>
+            <description><![CDATA[<article><h1>Mafia III One Way Road Story Trailer</h1><p>The city of New Bordeaux had survived the War of 1812, the Civil War and god knows how many hurricanes. But when Lincoln Clay went after the Italian Mafia in 1968, he inflicted more damage than all those wars and hurricanes combined.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9829d38d4def6b7b96da5cc8b59dd638966cbc2d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z0SuAlCmPc8</link>
+            <guid isPermaLink="false">c820d246-b48d-439f-9fbd-306a1e0b1d0f</guid>
+            <pubDate>Wed, 20 Apr 2016 06:32:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gears of War 4 Beta - 8 Tips For Learning Multiplayer]]></title>
             <description><![CDATA[<article><h1>Gears of War 4 Beta - 8 Tips For Learning Multiplayer</h1><p>Beta Tutorials Episode 1: The Basics. Tips and tricks series made by The Coalition. Learn the basic mechanics of Gears of War 4 Multiplayer including Close Cover Combat and Competitive Active Reload.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36011ffb5aa5a3bb176edb2cff734138f3658844.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/04/14/the-most-important-things-to-know-before-starting-dark-souls-iii/</link>
             <guid isPermaLink="false">8513b494-9043-4045-872c-6d19d1bc8a4c</guid>
             <pubDate>Fri, 15 Apr 2016 09:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gears of War 4 Devs on Making Multiplayer Matter, Not Taking Story Too Seriously]]></title>
-            <description><![CDATA[<article><h1>Gears of War 4 Devs on Making Multiplayer Matter, Not Taking Story Too Seriously</h1><p>It may surprise you to learn that Gears of War's multiplayer mode was "tacked on" in the final stretch of its development. And on top of that, the slip-and-slide shotgunning that now defines its gameplay experience was not how developer Epic Games wanted it to be played.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3be6836ae66c65e90c8b3d30b6d9d6b7b8b5a7e.jpg"></article>]]></description>
-            <link>http://www.gamespot.com/articles/gears-of-war-4-devs-on-making-multiplayer-matter-n/1100-6438826/</link>
-            <guid isPermaLink="false">1c0b28b5-a52d-4790-8d2c-a8074448adce</guid>
-            <pubDate>Fri, 15 Apr 2016 08:32:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
