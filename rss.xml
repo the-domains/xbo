@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 06:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 06:31:50 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Achievement Unlocked: 10 Years - Thank You, Xbox 360]]></title>
+            <description><![CDATA[<article><h1>Achievement Unlocked: 10 Years - Thank You, Xbox 360</h1><p>Last November, we celebrated a major milestone, as the Xbox 360 console turned 10 years old. The Xbox 360 helped redefine an entire generation of gaming at Microsoft. I am incredibly proud of all of the work and dedication that went into development of the Xbox 360 hardware, services and games portfolio over the last decade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5f035f02cb7c1cf06a90d1f28c3e5fbd3400b05.png"></article>]]></description>
+            <link>http://news.xbox.com/2016/04/20/xbox-360-celebrating-10-years/</link>
+            <guid isPermaLink="false">5e962ffe-7265-459a-8fe0-cae10e7d08d2</guid>
+            <pubDate>Thu, 21 Apr 2016 06:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arcade Game Series: Pac-Man, Ms. Pac-Man, Galaga And Dig Dug Are Now Available For Xbox One]]></title>
+            <description><![CDATA[<article><h1>Arcade Game Series: Pac-Man, Ms. Pac-Man, Galaga And Dig Dug Are Now Available For Xbox One</h1><p>BANDAI NAMCO Entertainment has released a number of classic arcade games and these latest ports come with scanlines, sound settings & more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaed4bb7582c9352c0d39c42ffd0e166128900f2.jpg"></article>]]></description>
+            <link>https://majornelson.com/2016/04/20/arcade-game-series-pac-man-ms-pac-man-galaga-and-dig-dug-are-now-available-for-xbox-one/</link>
+            <guid isPermaLink="false">ae1a4265-4be1-4cd0-8fa2-a3399626df3b</guid>
+            <pubDate>Thu, 21 Apr 2016 06:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ori and the Blind Forest: Definitive Edition Comes to Windows 10 and Steam on April 27]]></title>
             <description><![CDATA[<article><h1>Ori and the Blind Forest: Definitive Edition Comes to Windows 10 and Steam on April 27</h1><p>One of the most gorgeous games of 2015 has become even more spectacular in 2016 with Ori and the Blind Forest: Definitive Edition, which hit Xbox One last month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62bbd91db420b24e4b012b3c2432b6a0250fd38a.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.nytimes.com/2016/04/17/magazine/the-minecraft-generation.html?rref=collection%2Fsectioncollection%2Fmagazine&amp;_r=0</link>
             <guid isPermaLink="false">1e56c743-9333-47ec-aaf7-9309c4bdc1e2</guid>
             <pubDate>Tue, 19 Apr 2016 05:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mirror's Edge Catalyst Developer Diary - Social Play]]></title>
-            <description><![CDATA[<article><h1>Mirror's Edge Catalyst Developer Diary - Social Play</h1><p>Connecting and challenging players, the Social Play of Mirror's Edge™ Catalyst will appeal to both novice and pro Runners. Learn about creating your own Time Trials, the challenging Dashes designed by DICE, and placing Beat Location Emitters in the city of Glass for your friends to find.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ad7511b391878e6c496af63f75045c960c71833.jpg"></article>]]></description>
-            <link>https://youtu.be/mUM5gMojIj0</link>
-            <guid isPermaLink="false">33e9940b-f666-45a7-b589-b94f68afc86b</guid>
-            <pubDate>Tue, 19 Apr 2016 05:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week on Xbox: April 15, 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: April 15, 2016</h1><p>This week features a new trailer for Gears of War 4 and Titanfall 2, lots of beta action happening now, the release of Dark Souls III and much more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01e9bbc70f0aa39f1fe4879751ffc6a0674ec7d9.jpg"></article>]]></description>
-            <link>https://youtu.be/n_2G6e2du_M</link>
-            <guid isPermaLink="false">74200f85-8575-4d6e-b6ef-78a147319683</guid>
-            <pubDate>Sun, 17 Apr 2016 21:01:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
