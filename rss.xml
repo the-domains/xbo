@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 06:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 08:27:11 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ARK: Survival Evolved Brings Official Mods to Xbox One]]></title>
+            <description><![CDATA[<article><h1>ARK: Survival Evolved Brings Official Mods to Xbox One</h1><p>Ark: Survival Evolved, the enormously popular Xbox Game Preview title, is bringing official mods to Xbox One, starting with "The Center," a fantasy themed map that literally doubles the size of the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab5ba9a2a6da9dec15ff6b509108143f4a10a1c.jpg"></article>]]></description>
+            <link>https://youtu.be/OnFKSu-w8zw</link>
+            <guid isPermaLink="false">9c16d31f-22ab-47e8-93e0-53cf2d828fcb</guid>
+            <pubDate>Sat, 23 Apr 2016 08:27:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Achievement Unlocked: 10 Years - Thank You, Xbox 360]]></title>
             <description><![CDATA[<article><h1>Achievement Unlocked: 10 Years - Thank You, Xbox 360</h1><p>Last November, we celebrated a major milestone, as the Xbox 360 console turned 10 years old. The Xbox 360 helped redefine an entire generation of gaming at Microsoft. I am incredibly proud of all of the work and dedication that went into development of the Xbox 360 hardware, services and games portfolio over the last decade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5f035f02cb7c1cf06a90d1f28c3e5fbd3400b05.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=E487yg48-AQ</link>
             <guid isPermaLink="false">cd80bcff-bd43-4823-8363-20ed492f9111</guid>
             <pubDate>Tue, 19 Apr 2016 07:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Minecraft Generation]]></title>
-            <description><![CDATA[<article><h1>The Minecraft Generation</h1><p>Jordan wanted to build an unpredictable trap. An 11-year-old in dark horn-­rimmed glasses, Jordan is a devotee of Minecraft, the computer game in which you make things out of virtual blocks, from dizzying towers to entire cities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c91cd5d1cfd695bdc2734f6af033b715122802c2.gif"></article>]]></description>
-            <link>http://www.nytimes.com/2016/04/17/magazine/the-minecraft-generation.html?rref=collection%2Fsectioncollection%2Fmagazine&amp;_r=0</link>
-            <guid isPermaLink="false">1e56c743-9333-47ec-aaf7-9309c4bdc1e2</guid>
-            <pubDate>Tue, 19 Apr 2016 05:53:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
