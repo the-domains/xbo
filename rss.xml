@@ -4,15 +4,8 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 09:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 09:35:38 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[This Week on Xbox: April 22, 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: April 22, 2016</h1><p>This week's news includes the betas for Gears of War 4 and Mirror's Edge Catalyst, HBO NOW on Xbox, several giveaways, details on PAX East 2016 and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dac35877fdbba18bcb133825b785fe49888c7b5.jpg"></article>]]></description>
-            <link>https://youtu.be/KNVOckj80sg</link>
-            <guid isPermaLink="false">841a05fe-cf6c-4eb4-a5a2-8b989f797fbe</guid>
-            <pubDate>Sat, 23 Apr 2016 09:35:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gears of War 4 Versus Multiplayer Gameplay Trailer]]></title>
             <description><![CDATA[<article><h1>Gears of War 4 Versus Multiplayer Gameplay Trailer</h1><p>Join the Xbox Live Gold Gears Of War 4 Versus Multiplayer BETA April 25-May 1 and curb stomp your way through new maps and modes with new characters, weapons and executions. Get Gory, Get Glory and unlock the Vintage Kait Character when the full game launches this October.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/879422711ed95682c4741fb5b7b75f915a6c5a94.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://majornelson.com/2016/04/19/this-weeks-deals-with-gold-and-spotlight-sale-46/</link>
             <guid isPermaLink="false">30e7d24b-c66e-4298-b62a-583024aab55c</guid>
             <pubDate>Wed, 20 Apr 2016 06:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mafia III One Way Road Story Trailer]]></title>
+            <description><![CDATA[<article><h1>Mafia III One Way Road Story Trailer</h1><p>The city of New Bordeaux had survived the War of 1812, the Civil War and god knows how many hurricanes. But when Lincoln Clay went after the Italian Mafia in 1968, he inflicted more damage than all those wars and hurricanes combined.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9829d38d4def6b7b96da5cc8b59dd638966cbc2d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z0SuAlCmPc8</link>
+            <guid isPermaLink="false">c820d246-b48d-439f-9fbd-306a1e0b1d0f</guid>
+            <pubDate>Wed, 20 Apr 2016 06:32:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
