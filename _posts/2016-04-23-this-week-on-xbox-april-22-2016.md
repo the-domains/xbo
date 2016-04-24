@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Xbox
-    url: 'https://www.youtube.com/user/xbox'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/KNVOckj80sg'
+inLanguage: en
 keywords:
   - pax
   - available
@@ -21,7 +16,13 @@ keywords:
   - mirror
   - gears
 description: "This week's news includes the betas for Gears of War 4 and Mirror's Edge Catalyst, HBO NOW on Xbox, several giveaways, details on PAX East 2016 and more."
-inLanguage: en
+datePublished: '2016-04-24T06:08:30.166Z'
+dateModified: '2016-04-24T06:08:23.402Z'
+author:
+  - name: Xbox
+    url: 'https://www.youtube.com/user/xbox'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KNVOckj80sg&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/KNVOckj80sg'
 title: 'This Week on Xbox: April 22, 2016'
-datePublished: '2016-04-23T09:35:34.744Z'
-dateModified: '2016-04-23T08:25:59.008Z'
-starred: false
 sourcePath: _posts/2016-04-23-this-week-on-xbox-april-22-2016.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
