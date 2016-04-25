@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 13:35:09 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Starting Today, You Can Watch HBO NOW on Xbox]]></title>
+            <description><![CDATA[<article><h1>Starting Today, You Can Watch HBO NOW on Xbox</h1><p>Great news for HBO NOW subscribers: Starting today, you can access HBO's standalone streaming service on your Xbox One and Xbox 360, via the HBO NOW app. That means instant access to all of HBO's library of compelling series, unforgettable movies, thought-provoking documentaries, thrilling sports programs, and entertaining comedy and music specials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f9654334421bfeff6b0e6f0df437cccf102cb74.jpg"></article>]]></description>
+            <link>http://news.xbox.com/2016/04/21/starting-today-you-can-watch-hbo-now-on-xbox/</link>
+            <guid isPermaLink="false">610e7d60-4e6a-4c56-8054-654aa9546a81</guid>
+            <pubDate>Mon, 25 Apr 2016 13:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rocket League Gets Free Hoops Mode April 26, Plus Official NBA DLC]]></title>
             <description><![CDATA[<article><h1>Rocket League Gets Free Hoops Mode April 26, Plus Official NBA DLC</h1><p>From the moment we first teased Rocket League Hoops on Twitter last month, our community has been actively (and enthusiastically) chasing us for a release date. And now, as the headline says, we finally have one - Tuesday, April 26th!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08a22d82f5220b3f2c23ba03e3b2eb4c18be6b12.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>EA Access - FIFA 16 in The Vault on April 19</h1><p>Lace your boots. FIFA 16 is available in The Vault on Xbox One for EA Access Members on April 19. http://x.ea.com/3991 Get ready to take to the pitch and exp...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88db810a664749150a6639228e67c9979080b022.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=GP08rUBjdks</link>
             <guid isPermaLink="false">dcd19361-d1ac-49ea-93b4-9c238dae6a07</guid>
-            <pubDate>Thu, 21 Apr 2016 06:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Book of Demons hacks and slashes onto Xbox One]]></title>
-            <description><![CDATA[<article><h1>Book of Demons hacks and slashes onto Xbox One</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30b495a293a3df80bf187927fcc787d4aa90203c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=L3MKS094rsc</link>
-            <guid isPermaLink="false">2f7cf9c2-f840-4495-9c91-931fbf016bb7</guid>
             <pubDate>Thu, 21 Apr 2016 06:25:55 GMT</pubDate>
         </item>
     </channel>
