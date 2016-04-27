@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 09:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 06:20:16 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Xbox - May Games with Gold]]></title>
+            <description><![CDATA[<article><h1>Xbox - May Games with Gold</h1><p>Play together with Xbox Live Gold. May's Games with Gold lineup for Xbox One includes Defense Grid 2 and Costume Quest 2. For Xbox 360 owners, (and through Xbox One backwards compatibility) May kicks off with Grid 2, followed by Peggle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1c9c7ef28380e36213797a922a36990f4c18b1d.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_C5Vq-iy2Gk</link>
+            <guid isPermaLink="false">a820781c-609e-4326-9326-85e1c78c26b0</guid>
+            <pubDate>Wed, 27 Apr 2016 06:19:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gears of War 4: Ultimate Edition Available for Pre-Order and Season Pass Contents Detailed]]></title>
             <description><![CDATA[<article><h1>Gears of War 4: Ultimate Edition Available for Pre-Order and Season Pass Contents Detailed</h1><p>Today, we're excited to announce that both Standard and Ultimate Editions of Gears of War 4 are now available for pre-order from the Xbox Store and participating retailers, including the Microsoft Store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10c234b364b521ac874b64e53299537fa0e973cc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://majornelson.com/2016/04/20/arcade-game-series-pac-man-ms-pac-man-galaga-and-dig-dug-are-now-available-for-xbox-one/</link>
             <guid isPermaLink="false">ae1a4265-4be1-4cd0-8fa2-a3399626df3b</guid>
             <pubDate>Thu, 21 Apr 2016 06:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ori and the Blind Forest: Definitive Edition Comes to Windows 10 and Steam on April 27]]></title>
-            <description><![CDATA[<article><h1>Ori and the Blind Forest: Definitive Edition Comes to Windows 10 and Steam on April 27</h1><p>One of the most gorgeous games of 2015 has become even more spectacular in 2016 with Ori and the Blind Forest: Definitive Edition, which hit Xbox One last month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62bbd91db420b24e4b012b3c2432b6a0250fd38a.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/04/20/ori-blind-forest-definitive-edition-pc-launch-trailer/</link>
-            <guid isPermaLink="false">33540ed6-92a9-44a7-83b6-8a427613ae40</guid>
-            <pubDate>Thu, 21 Apr 2016 06:25:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
