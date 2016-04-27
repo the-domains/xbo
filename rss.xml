@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 06:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 06:20:23 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
+            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 02 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8182376aa1b79904c8b53754420b1c9a5879b7f1.jpg"></article>]]></description>
+            <link>https://majornelson.com/2016/04/25/this-weeks-deals-with-gold-and-spotlight-sale-47/</link>
+            <guid isPermaLink="false">9c06968e-c01f-42cd-8476-268510745161</guid>
+            <pubDate>Wed, 27 Apr 2016 06:19:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xbox - May Games with Gold]]></title>
             <description><![CDATA[<article><h1>Xbox - May Games with Gold</h1><p>Play together with Xbox Live Gold. May's Games with Gold lineup for Xbox One includes Defense Grid 2 and Costume Quest 2. For Xbox 360 owners, (and through Xbox One backwards compatibility) May kicks off with Grid 2, followed by Peggle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1c9c7ef28380e36213797a922a36990f4c18b1d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/04/20/xbox-360-celebrating-10-years/</link>
             <guid isPermaLink="false">5e962ffe-7265-459a-8fe0-cae10e7d08d2</guid>
             <pubDate>Thu, 21 Apr 2016 06:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Game Series: Pac-Man, Ms. Pac-Man, Galaga And Dig Dug Are Now Available For Xbox One]]></title>
-            <description><![CDATA[<article><h1>Arcade Game Series: Pac-Man, Ms. Pac-Man, Galaga And Dig Dug Are Now Available For Xbox One</h1><p>BANDAI NAMCO Entertainment has released a number of classic arcade games and these latest ports come with scanlines, sound settings & more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaed4bb7582c9352c0d39c42ffd0e166128900f2.jpg"></article>]]></description>
-            <link>https://majornelson.com/2016/04/20/arcade-game-series-pac-man-ms-pac-man-galaga-and-dig-dug-are-now-available-for-xbox-one/</link>
-            <guid isPermaLink="false">ae1a4265-4be1-4cd0-8fa2-a3399626df3b</guid>
-            <pubDate>Thu, 21 Apr 2016 06:29:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
