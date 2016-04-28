@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 06:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 07:39:41 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Homefront: The Revolution 'America Has Fallen' Trailer (Official)]]></title>
+            <description><![CDATA[<article><h1>Homefront: The Revolution 'America Has Fallen' Trailer (Official)</h1><p>Discover the terrifying near-future world of Homefront with this cinematic intro to the game. It tells the story of how North Korea rose from the ashes of the Korean War to become a dominant world power, and ultimately occupy a fallen America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f52a2fc607f7213d6045ef831cf72ae471802ab.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AR5WJwAfSis</link>
+            <guid isPermaLink="false">a6d0b3bd-50da-4a7d-9dfa-a46121087c87</guid>
+            <pubDate>Thu, 28 Apr 2016 07:39:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
             <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 02 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8182376aa1b79904c8b53754420b1c9a5879b7f1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/OnFKSu-w8zw</link>
             <guid isPermaLink="false">9c16d31f-22ab-47e8-93e0-53cf2d828fcb</guid>
             <pubDate>Sat, 23 Apr 2016 08:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Achievement Unlocked: 10 Years - Thank You, Xbox 360]]></title>
-            <description><![CDATA[<article><h1>Achievement Unlocked: 10 Years - Thank You, Xbox 360</h1><p>Last November, we celebrated a major milestone, as the Xbox 360 console turned 10 years old. The Xbox 360 helped redefine an entire generation of gaming at Microsoft. I am incredibly proud of all of the work and dedication that went into development of the Xbox 360 hardware, services and games portfolio over the last decade.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5f035f02cb7c1cf06a90d1f28c3e5fbd3400b05.png"></article>]]></description>
-            <link>http://news.xbox.com/2016/04/20/xbox-360-celebrating-10-years/</link>
-            <guid isPermaLink="false">5e962ffe-7265-459a-8fe0-cae10e7d08d2</guid>
-            <pubDate>Thu, 21 Apr 2016 06:31:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
