@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 07:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 08:55:47 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[King's Quest - Chapter 3: Once Upon a Climb]]></title>
+            <description><![CDATA[<article><h1>King's Quest - Chapter 3: Once Upon a Climb</h1><p>King's Quest - Once Upon a Climb is the third chapter in the new, critically-acclaimed reimagining of the classic King's Quest game series. In his latest adventure, King Graham recounts his most personal tale yet. When the magic mirror reveals the location of his one-true love, Graham must climb to daring new heights to save his future Queen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60ea2972318cfa1d6d3eccda299efd74b3a0c990.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jxkNlIYPWf0</link>
+            <guid isPermaLink="false">bd2e5252-7194-4edd-8e65-b977ce06c661</guid>
+            <pubDate>Fri, 29 Apr 2016 08:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forza Motorsport 6: Apex Open Beta on Windows 10 Arrives May 5]]></title>
+            <description><![CDATA[<article><h1>Forza Motorsport 6: Apex Open Beta on Windows 10 Arrives May 5</h1><p>A new era for the Forza Motorsport series begins on May 5 with the release of the open beta for Forza Motorsport 6: Apex. Crafted specifically for Windows 10, Apex represents the critical first step in the future of the Forza franchise as it expands onto Windows 10 PCs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5a2ae68ecc7132bf11377ea012faff5e45298d.jpg"></article>]]></description>
+            <link>http://news.xbox.com/2016/04/28/forza-motorsport-apex-open-beta-arrives-may-5/</link>
+            <guid isPermaLink="false">0a88d1e3-ec71-467c-87be-9d6c7d66aebd</guid>
+            <pubDate>Fri, 29 Apr 2016 08:55:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Long Dark "Tireless Menance" Update Available Now]]></title>
             <description><![CDATA[<article><h1>The Long Dark "Tireless Menance" Update Available Now</h1><p>The Long Dark's recent update, ""Tireless Menace"", includes new Challenge Modes, an improved Radial Menu, Rest System overhaul and more! Footage captured on a PC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27b83f1359c3a2426f4a4028013b580b6dc4ca05.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://youtu.be/KNVOckj80sg</link>
             <guid isPermaLink="false">841a05fe-cf6c-4eb4-a5a2-8b989f797fbe</guid>
             <pubDate>Sun, 24 Apr 2016 06:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gears of War 4 Versus Multiplayer Gameplay Trailer]]></title>
-            <description><![CDATA[<article><h1>Gears of War 4 Versus Multiplayer Gameplay Trailer</h1><p>Join the Xbox Live Gold Gears Of War 4 Versus Multiplayer BETA April 25-May 1 and curb stomp your way through new maps and modes with new characters, weapons and executions. Get Gory, Get Glory and unlock the Vintage Kait Character when the full game launches this October.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/879422711ed95682c4741fb5b7b75f915a6c5a94.jpg"></article>]]></description>
-            <link>https://youtu.be/b0JSFi3dzTw</link>
-            <guid isPermaLink="false">8abf62ca-3d37-44f3-b5dd-bc33a2df21ba</guid>
-            <pubDate>Sat, 23 Apr 2016 09:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[140 Coming Soon to Xbox One]]></title>
-            <description><![CDATA[<article><h1>140 Coming Soon to Xbox One</h1><p>Coming from Abstraction Games and Double Fine Presents, 140 is a challenging minimalistic rhythm based platformer headed to Xbox One this summer! At it's heart 140 is an old school platformer set in a world of abstract colorful graphics, but it has a musical twist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7b5770440b9502df2b680e0278eeac81493995d.jpg"></article>]]></description>
-            <link>https://youtu.be/804KaCkDH-c</link>
-            <guid isPermaLink="false">2e8a52ca-9285-4b09-867c-ed0cd71d048c</guid>
-            <pubDate>Sat, 23 Apr 2016 08:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
