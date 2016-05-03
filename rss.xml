@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 11:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 06:59:21 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deus Ex: Mankind Divided - 101 Trailer]]></title>
+            <description><![CDATA[<article><h1>Deus Ex: Mankind Divided - 101 Trailer</h1><p>Discover everything you need to know about Deus Ex: Mankind Divided in the official 101 trailer! In Deus Ex: Mankind Divided, you become Adam Jensen, a counterterrorism agent working for an Interpol unit known as Task Force 29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3add03024c3bae1033c17627c9b21c273518a9d3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JFdcX_AlAyM</link>
+            <guid isPermaLink="false">52af1c13-382c-4318-8196-a75f4dfb3b52</guid>
+            <pubDate>Tue, 03 May 2016 06:59:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Week on Xbox: April 29, 2016]]></title>
             <description><![CDATA[<article><h1>This Week on Xbox: April 29, 2016</h1><p>This week's news includes the open beta for Gears of War 4, a new character for Killer Instinct Season 3, Forza Motorsport 6 Apex beta details, the release of DC Universe Online and more."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cfee3d4fec2f778f37b5c017fc44f16946f3d2d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=AR5WJwAfSis</link>
             <guid isPermaLink="false">a6d0b3bd-50da-4a7d-9dfa-a46121087c87</guid>
             <pubDate>Thu, 28 Apr 2016 07:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
-            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 02 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8182376aa1b79904c8b53754420b1c9a5879b7f1.jpg"></article>]]></description>
-            <link>https://majornelson.com/2016/04/25/this-weeks-deals-with-gold-and-spotlight-sale-47/</link>
-            <guid isPermaLink="false">9c06968e-c01f-42cd-8476-268510745161</guid>
-            <pubDate>Wed, 27 Apr 2016 06:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
