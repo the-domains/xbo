@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 06:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 07:06:06 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Official Call of Duty®: Infinite Warfare Reveal Trailer]]></title>
+            <description><![CDATA[<article><h1>Official Call of Duty®: Infinite Warfare Reveal Trailer</h1><p>Call of Duty®: Infinite Warfare returns to the roots of the franchise where large-scale war and cinematic, immersive military storytelling take center stage. Prepare for a gripping war story in which players fight against the Settlement Defense Front to defend our very way of life. Take command on November 4.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d9f2cff59f24a86f1af0ae465ef6b668cc4876b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=qX7MPtOP-Y8</link>
+            <guid isPermaLink="false">529cf09c-28ec-475b-b163-6442128a3920</guid>
+            <pubDate>Tue, 03 May 2016 07:05:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Overwatch Open Beta Teaser | Are You With Us?]]></title>
             <description><![CDATA[<article><h1>Overwatch Open Beta Teaser | Are You With Us?</h1><p>Calling all agents of Overwatch: The fight for the future begins May 24 on Xbox One! Are you with us? Want a head start on all the heroic action? Play FREE May 5-9 during the Overwatch Open Beta. Set your sights on the second animated short in our four-part series: Alive!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a1a4da50ee7b435e35037125e4e576dced8ea92.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>King's Quest - Chapter 3: Once Upon a Climb</h1><p>King's Quest - Once Upon a Climb is the third chapter in the new, critically-acclaimed reimagining of the classic King's Quest game series. In his latest adventure, King Graham recounts his most personal tale yet. When the magic mirror reveals the location of his one-true love, Graham must climb to daring new heights to save his future Queen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60ea2972318cfa1d6d3eccda299efd74b3a0c990.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=jxkNlIYPWf0</link>
             <guid isPermaLink="false">bd2e5252-7194-4edd-8e65-b977ce06c661</guid>
-            <pubDate>Fri, 29 Apr 2016 08:55:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forza Motorsport 6: Apex Open Beta on Windows 10 Arrives May 5]]></title>
-            <description><![CDATA[<article><h1>Forza Motorsport 6: Apex Open Beta on Windows 10 Arrives May 5</h1><p>A new era for the Forza Motorsport series begins on May 5 with the release of the open beta for Forza Motorsport 6: Apex. Crafted specifically for Windows 10, Apex represents the critical first step in the future of the Forza franchise as it expands onto Windows 10 PCs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5a2ae68ecc7132bf11377ea012faff5e45298d.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/04/28/forza-motorsport-apex-open-beta-arrives-may-5/</link>
-            <guid isPermaLink="false">0a88d1e3-ec71-467c-87be-9d6c7d66aebd</guid>
             <pubDate>Fri, 29 Apr 2016 08:55:11 GMT</pubDate>
         </item>
     </channel>
