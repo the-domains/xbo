@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 20:29:53 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox at E3 2016]]></title>
@@ -12,6 +12,13 @@
             <link>http://news.xbox.com/2016/05/03/xbox-at-e3-2016/</link>
             <guid isPermaLink="false">bf281ba7-bae1-46a7-b1df-3d9ac645455f</guid>
             <pubDate>Wed, 04 May 2016 20:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Battlefield 1 Official Reveal Trailer]]></title>
+            <description><![CDATA[<article><h1>Battlefield 1 Official Reveal Trailer</h1><p>Discover classic Battlefield gameplay with epic multiplayer and an adventure-filled campaign. Experience the Dawn of All-Out War, Only in Battlefield 1. Battlefield 1 will be available from Oct 21st, 2016 on Xbox One, PS4 and PC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55aab126081a882769c03e5c8ed0bbe6a4b54042.jpg"></article>]]></description>
+            <link>https://youtu.be/c7nRTF2SowQ</link>
+            <guid isPermaLink="false">8bdf565d-8269-4314-a7f2-3f3bc8c9ac95</guid>
+            <pubDate>Fri, 06 May 2016 20:29:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celebrate Star Wars Day Across The Battlefront]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=jSRmxNQxOIc</link>
             <guid isPermaLink="false">cfb2f164-fb3e-4efd-95e1-2b07eafaed57</guid>
             <pubDate>Tue, 03 May 2016 06:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deus Ex: Mankind Divided - 101 Trailer]]></title>
-            <description><![CDATA[<article><h1>Deus Ex: Mankind Divided - 101 Trailer</h1><p>Discover everything you need to know about Deus Ex: Mankind Divided in the official 101 trailer! In Deus Ex: Mankind Divided, you become Adam Jensen, a counterterrorism agent working for an Interpol unit known as Task Force 29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3add03024c3bae1033c17627c9b21c273518a9d3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=JFdcX_AlAyM</link>
-            <guid isPermaLink="false">52af1c13-382c-4318-8196-a75f4dfb3b52</guid>
-            <pubDate>Tue, 03 May 2016 06:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
