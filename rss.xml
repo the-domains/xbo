@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 08:41:57 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox at E3 2016]]></title>
@@ -12,6 +12,20 @@
             <link>http://news.xbox.com/2016/05/03/xbox-at-e3-2016/</link>
             <guid isPermaLink="false">bf281ba7-bae1-46a7-b1df-3d9ac645455f</guid>
             <pubDate>Wed, 04 May 2016 20:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
+            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 16 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f035fa8f8dc2c1e30579e0f8e5790f4c8ede6c0.jpg"></article>]]></description>
+            <link>https://majornelson.com/2016/05/09/this-weeks-deals-with-gold-and-spotlight-sale-48/</link>
+            <guid isPermaLink="false">e555dee4-5420-462b-828a-5abfc5c8e3d7</guid>
+            <pubDate>Tue, 10 May 2016 08:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fallout 4 - Far Harbor Official Trailer]]></title>
+            <description><![CDATA[<article><h1>Fallout 4 - Far Harbor Official Trailer</h1><p>Watch the official trailer for Far Harbor, the third game add-on for Fallout 4, available on Thursday, May 19. A new case from Valentine's Detective Agency leads you on a search for a young woman and a secret colony of synths.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c4554ccdd4b5e6a72cd4396f2063e0720da4068.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yp6vTp7vG5I</link>
+            <guid isPermaLink="false">587ce155-539a-452a-b23e-00afa4f56d4d</guid>
+            <pubDate>Mon, 09 May 2016 07:23:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Week on Xbox: May 6, 2016]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=dsh5x_4MiPc</link>
             <guid isPermaLink="false">29f3beba-0ad1-4b36-9f50-4a8d55a6cdae</guid>
             <pubDate>Wed, 04 May 2016 08:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SUPERHOT is now availabe on Xbox One]]></title>
-            <description><![CDATA[<article><h1>SUPERHOT is now availabe on Xbox One</h1><p>SUPERHOT is the first person shooter where time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing the weapons of fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/360d06037e916fc98bb075e74fdc987c0a335cf5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=AFNck-jJXjc</link>
-            <guid isPermaLink="false">569b3872-e85c-48c6-b655-2457940e4a46</guid>
-            <pubDate>Wed, 04 May 2016 08:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Official Call of Duty®: Infinite Warfare Reveal Trailer]]></title>
-            <description><![CDATA[<article><h1>Official Call of Duty®: Infinite Warfare Reveal Trailer</h1><p>Call of Duty®: Infinite Warfare returns to the roots of the franchise where large-scale war and cinematic, immersive military storytelling take center stage. Prepare for a gripping war story in which players fight against the Settlement Defense Front to defend our very way of life. Take command on November 4.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d9f2cff59f24a86f1af0ae465ef6b668cc4876b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=qX7MPtOP-Y8</link>
-            <guid isPermaLink="false">529cf09c-28ec-475b-b163-6442128a3920</guid>
-            <pubDate>Tue, 03 May 2016 07:05:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
