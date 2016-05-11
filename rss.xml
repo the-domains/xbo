@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 06:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 06:39:38 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox at E3 2016]]></title>
@@ -12,6 +12,13 @@
             <link>http://news.xbox.com/2016/05/03/xbox-at-e3-2016/</link>
             <guid isPermaLink="false">bf281ba7-bae1-46a7-b1df-3d9ac645455f</guid>
             <pubDate>Wed, 04 May 2016 20:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Clancy's Rainbow Six Siege - Operation Dust Line Trailer]]></title>
+            <description><![CDATA[<article><h1>Tom Clancy's Rainbow Six Siege - Operation Dust Line Trailer</h1><p>Operation Dust Line is here, bringing 2 new NAVY SEAL Operators: Valkyrie and Blackbeard! The all new Border map, set in the Middle East, is now available to all Rainbow Six Siege players. Season Pass holders get instant access to Blackbeard and Valkyrie on May 11.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8839a29b2db920d17ae9bdcbf68394befe0d5130.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=rO9uYRNRRSw</link>
+            <guid isPermaLink="false">8c5c8671-ca03-4734-8011-20b995eb2fa4</guid>
+            <pubDate>Wed, 11 May 2016 06:39:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dangerous Golf - Coming soon to Xbox One]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/c7nRTF2SowQ</link>
             <guid isPermaLink="false">8bdf565d-8269-4314-a7f2-3f3bc8c9ac95</guid>
             <pubDate>Fri, 06 May 2016 20:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate Star Wars Day Across The Battlefront]]></title>
-            <description><![CDATA[<article><h1>Celebrate Star Wars Day Across The Battlefront</h1><p>Star Wars™ Day is here and to celebrate our team has a few special goodies for you to claim and take advantage of across the battlefront. Check out what you can unlock across the battlefront and utilize as of today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92912a1437fa0a4b993eef132d6163425bbb16ff.jpg"></article>]]></description>
-            <link>http://starwars.ea.com/starwars/battlefront/news/celebrate-star-wars-day-across-the-battlefront?utm_campaign=swbf_hd_ww_ic_soco_twt_swbf-celebratemay4th-542016-tw&amp;utm_source=twitter&amp;utm_medium=social&amp;cid=4861&amp;ts=1462392063669&amp;sf46138670=1</link>
-            <guid isPermaLink="false">89208e20-ea58-4d75-8df6-a2cd196548f8</guid>
-            <pubDate>Wed, 04 May 2016 20:31:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
