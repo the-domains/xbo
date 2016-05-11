@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 08:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 06:39:12 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox at E3 2016]]></title>
@@ -12,6 +12,20 @@
             <link>http://news.xbox.com/2016/05/03/xbox-at-e3-2016/</link>
             <guid isPermaLink="false">bf281ba7-bae1-46a7-b1df-3d9ac645455f</guid>
             <pubDate>Wed, 04 May 2016 20:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[It's the big 4.0 - Happy Birthday Minecraft: Xbox Edition!]]></title>
+            <description><![CDATA[<article><h1>It's the big 4.0 - Happy Birthday Minecraft: Xbox Edition!</h1><p>Hello! It's hard to believe it's been four years since Minecraft arrived on Xbox consoles, and we've enjoyed every minute of it. We all know birthdays call for a celebration and we want to make sure that you can dress up for the occasion, so starting today through May 16 you'll be able to download the 4th Birthday Skin Pack for Minecraft: Xbox 360 Edition and Minecraft: Xbox One Edition for free.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7f4e83e11b01189a8708405e16d60b217ea9a7f.png"></article>]]></description>
+            <link>http://news.xbox.com/2016/05/09/minecraft-fourth-birthday-skin-pack-xbox-editions/</link>
+            <guid isPermaLink="false">dd2f43d5-e042-46df-a4ca-46f4e084e3df</guid>
+            <pubDate>Wed, 11 May 2016 06:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Witcher 3: Wild Hunt - Blood and Wine (teaser trailer)]]></title>
+            <description><![CDATA[<article><h1>The Witcher 3: Wild Hunt - Blood and Wine (teaser trailer)</h1><p>"THE LAND OF WINE IS DRENCHED IN BLOOD" For the last time become professional monster slayer Geralt of Rivia and explore Toussaint, a remote land untouched by war, where you will unravel the horrifying secret behind a beast terrorizing the kingdom. Blood and Wine is a 20+ hour adventure full of dark deeds, unexpected twists, romance and deceit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54e2fe5bd3cfd960f0143254149b3672e60f7966.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ZR5Ex3Zyqao</link>
+            <guid isPermaLink="false">1a0ce172-0148-42f2-821d-209ceaabc02d</guid>
+            <pubDate>Wed, 11 May 2016 06:39:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
@@ -61,20 +75,6 @@
             <link>https://majornelson.com/2016/05/02/this-weeks-deals-with-gold-and-spotlight-sale-microsoft-publisher-sale/</link>
             <guid isPermaLink="false">f38eb956-7e76-4d65-b184-bb6260fd36c6</guid>
             <pubDate>Wed, 04 May 2016 08:23:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forza Motorsport 6 Hot Wheels Car Pack]]></title>
-            <description><![CDATA[<article><h1>Forza Motorsport 6 Hot Wheels Car Pack</h1><p>The Hot Wheels Car Pack for Forza Motorsport 6 arrives today, bringing with it a collection of cars that are sure to please both die-cast diehards and virtual racers alike. Leading this seven-car pack are two models that Hot Wheels fans are intimately familiar with - the 2011 Hot Wheels Bone Shaker and the 2005 Ford Hot Wheels Mustang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e3702b0d3f738a31abe4479daa44cfaef5ef928.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rNjJXRo0dOY</link>
-            <guid isPermaLink="false">cbff846d-75f9-4101-a3a5-64133ac16dad</guid>
-            <pubDate>Wed, 04 May 2016 08:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Park is now availabe on Xbox One]]></title>
-            <description><![CDATA[<article><h1>The Park is now availabe on Xbox One</h1><p>Set in a creepy amusement park hiding a dark and sinister secret, The Park is a one to two hour long first-person psychological horror experience focusing on intense storytelling and exploration instead of combat and action. A day at the park... a lost teddy bear... a missing child.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/264f0010afdb83ed65120498ce7f3e1c8ff876bd.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=dsh5x_4MiPc</link>
-            <guid isPermaLink="false">29f3beba-0ad1-4b36-9f50-4a8d55a6cdae</guid>
-            <pubDate>Wed, 04 May 2016 08:15:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
