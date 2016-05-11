@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 11 May 2016 06:48:08 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Unlocked Frame Rate and More Now Enabled for UWP]]></title>
+            <description><![CDATA[<article><h1>Unlocked Frame Rate and More Now Enabled for UWP</h1><p>What an exciting few months it's been for Windows 10 Gamers In the last few months, we've taken Windows 10 gaming to a new level by partnering with Microsoft Studios to deliver marquee titles such as: Gears of War: Ultimate Edition, Rise of the Tomb Raider, Quantum Break, and Forza Motorsport 6: Apex (Beta), all of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abcdf01a4ad61771eed56f8f830112f6c6f4a39c.jpg"></article>]]></description>
+            <link>https://blogs.msdn.microsoft.com/directx/2016/05/10/unlocked-frame-rate-and-more-now-enabled-for-uwp/</link>
+            <guid isPermaLink="false">353c95ab-d46c-4e43-8814-3f360df35b22</guid>
+            <pubDate>Wed, 11 May 2016 06:47:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ID@Xbox Game Fest week 2 is live now: "Play for Free"]]></title>
             <description><![CDATA[<article><h1>ID@Xbox Game Fest week 2 is live now: "Play for Free"</h1><p>ID@Xbox "Game Fest" will be spotlighting great games from ID@Xbox throughout the entire month of May. In week 2, check out some of the best games from Independent Developers you can play for free right now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e8c7194b7a4507734a9aa7329e2fbc064d6977b.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=ShUinXafBiA</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>This Week on Xbox: May 6, 2016</h1><p>This week's news includes details for the Xbox E3 2016 Briefing, a huge Call of Duty announcement, releases like Battleborn, the Overwatch open beta and much more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0758499629589326f6b83fb17ac3a68f5bcce0e2.jpg"></article>]]></description>
             <link>https://youtu.be/gyr-UTiz2fk</link>
             <guid isPermaLink="false">a5b3fdf3-9167-403f-93bc-8ad6eb782f5f</guid>
-            <pubDate>Sun, 08 May 2016 19:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DOOM - Launch Trailer]]></title>
-            <description><![CDATA[<article><h1>DOOM - Launch Trailer</h1><p>DOOM is back! With a brutal single-player campaign, iconic fast-paced multiplayer, and the ability to create and play your own levels with SnapMap, DOOM delivers all the guns, demons and action you've been craving. It's time to Fight Like Hell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff093222e05a9fe1ebc73cec52d90386bd505a1c.jpg"></article>]]></description>
-            <link>https://youtu.be/nnRIbx7aCEs</link>
-            <guid isPermaLink="false">abe06afd-500c-4016-a715-55ce60ebef5b</guid>
             <pubDate>Sun, 08 May 2016 19:37:23 GMT</pubDate>
         </item>
     </channel>
