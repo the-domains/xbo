@@ -4,11 +4,18 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 14:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 07:57:33 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[MNR 569 Larry and Jeff discuss the latest Xbox news and other stuff by Larry Hryb (Major Nelson)]]></title>
+            <description><![CDATA[<article><h1>MNR 569 Larry and Jeff discuss the latest Xbox news and other stuff by Larry Hryb (Major Nelson)</h1><p>Hi there. I am Larry Hryb, Xbox LIVE's Major Nelson. Yes, I work at Xbox. Yes this is really me. Read more about me here: http://about.me/larryh</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e1ac2956adad680d00f5e9cfe6d3aafbe0bfb79.png"></article>]]></description>
+            <link>https://m.soundcloud.com/xbox/mnr-569-larry-and-jeff-discuss</link>
+            <guid isPermaLink="false">aaa30756-9c7c-41c0-a931-512c72cb6d1f</guid>
+            <pubDate>Mon, 16 May 2016 07:57:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Week on Xbox: May 13, 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: May 13, 2016</h1><p>This special edition of This Week on Xbox features the announcement of Battlefield 1, the release of Doom and the Halo 5: Guardians update Memories of Reach, and more!</p></article>]]></description>
+            <description><![CDATA[<article><h1>This Week on Xbox: May 13, 2016</h1><p>This special edition of This Week on Xbox features the announcement of Battlefield 1, the release of Doom and the Halo 5: Guardians update Memories of Reach, and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65c1c3737e86dbf2f210c2af96994100f4902413.jpg"></article>]]></description>
             <link>https://youtu.be/YvS8GB-Ke-0</link>
             <guid isPermaLink="false">552675c7-d1ae-4d77-b2d0-cfd6ba0ca0a1</guid>
             <pubDate>Sat, 14 May 2016 14:40:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=ZR5Ex3Zyqao</link>
             <guid isPermaLink="false">1a0ce172-0148-42f2-821d-209ceaabc02d</guid>
             <pubDate>Wed, 11 May 2016 06:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
-            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 16 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f035fa8f8dc2c1e30579e0f8e5790f4c8ede6c0.jpg"></article>]]></description>
-            <link>https://majornelson.com/2016/05/09/this-weeks-deals-with-gold-and-spotlight-sale-48/</link>
-            <guid isPermaLink="false">e555dee4-5420-462b-828a-5abfc5c8e3d7</guid>
-            <pubDate>Tue, 10 May 2016 08:41:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
