@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 08:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 08:54:31 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nearly One Million Gamertags Are Being Released Back Into the Wild Starting May 18]]></title>
+            <description><![CDATA[<article><h1>Nearly One Million Gamertags Are Being Released Back Into the Wild Starting May 18</h1><p>No other console gives you the ability to customize your virtual representation and make your experience more social with easy-to-change Gamertags. Many of the best and most desirable Gamertags were unavailable...until now. We've listened to your feedback and once again Team Xbox is excited to announce the release of a large number of previously-unavailable Gamertags!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef08f8aed20a6eb068de317e4561510a116fd0a4.jpg"></article>]]></description>
+            <link>http://news.xbox.com/2016/05/16/xbox-live-gamertag-release/</link>
+            <guid isPermaLink="false">61206158-cf48-4568-a1f9-e53a3a4c8f58</guid>
+            <pubDate>Tue, 17 May 2016 08:54:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Overwatch Animated Short | "Dragons"]]></title>
             <description><![CDATA[<article><h1>Overwatch Animated Short | "Dragons"</h1><p>Discover the story behind one of Overwatch's biggest rivalries in our third animated short: Dragons! Then begin your watch May 24 on Xbox One: http://www.xbox.com/en-US/games/overwatch "Dragons" explores the history of conflict between the scions of the Shimada clan: Hanzo and Genji.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/275c1e192ac0a5e07b956481898bd5c001c2ed79.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/05/03/xbox-at-e3-2016/</link>
             <guid isPermaLink="false">bf281ba7-bae1-46a7-b1df-3d9ac645455f</guid>
             <pubDate>Wed, 11 May 2016 06:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tom Clancy's Rainbow Six Siege - Operation Dust Line Trailer]]></title>
-            <description><![CDATA[<article><h1>Tom Clancy's Rainbow Six Siege - Operation Dust Line Trailer</h1><p>Operation Dust Line is here, bringing 2 new NAVY SEAL Operators: Valkyrie and Blackbeard! The all new Border map, set in the Middle East, is now available to all Rainbow Six Siege players. Season Pass holders get instant access to Blackbeard and Valkyrie on May 11.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8839a29b2db920d17ae9bdcbf68394befe0d5130.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rO9uYRNRRSw</link>
-            <guid isPermaLink="false">8c5c8671-ca03-4734-8011-20b995eb2fa4</guid>
-            <pubDate>Wed, 11 May 2016 06:39:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
