@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 08:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 08:08:29 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forza Motorsport 6 NASCAR Expansion Trailer]]></title>
+            <description><![CDATA[<article><h1>Forza Motorsport 6 NASCAR Expansion Trailer</h1><p>America's favorite motorsport arrives to Forza Motorsport 6. The NASCAR Expansion brings the thrills of stock car racing to the world stage. Featuring 24 new cars from the 2016 season, an all-new career mode, updated gameplay mechanics, and a new destination, the NASCAR Expansion lets you experience the power of NASCAR as only Forza Motorsport 6 can deliver.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8fe1f91cf8b409415617361ae4325554c2119e8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Saite7sy_dg</link>
+            <guid isPermaLink="false">b46bafdd-f8fc-4db0-ae44-b0741fa7ebb8</guid>
+            <pubDate>Thu, 19 May 2016 08:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forza 6 NASCAR Expansion: "Making of" with Jimmie Johnson, Chase Elliott, and Kyle Busch]]></title>
+            <description><![CDATA[<article><h1>Forza 6 NASCAR Expansion: "Making of" with Jimmie Johnson, Chase Elliott, and Kyle Busch</h1><p>Xbox goes behind the scenes with some of NASCAR's best drivers as Jimmie Johnson, Kyle Busch, and Chase Elliott influence the development of the NASCAR expansion in Forza Motorsport 6. Experience NASCAR like never before and take on the world in the latest expansion for Forza Motorsport 6.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d691be6c6910200c195643539eb75042fc49a72.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SAZKeTbo15g</link>
+            <guid isPermaLink="false">92326f6f-e578-4f8c-a193-6bb40ef11797</guid>
+            <pubDate>Thu, 19 May 2016 08:07:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Subnautica available now through Xbox Game Preview]]></title>
             <description><![CDATA[<article><h1>Subnautica available now through Xbox Game Preview</h1><p>Now available through Xbox Game Preview! Subnautica is an underwater open world adventure game. Craft equipment, pilot submarines, and out-smart wildlife to explore lush coral reefs, volcanoes, and cave systems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/869d61b642331a9cf095572c54e4b421a4c54b56.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://news.xbox.com/2016/05/16/xbox-live-gamertag-release/</link>
             <guid isPermaLink="false">61206158-cf48-4568-a1f9-e53a3a4c8f58</guid>
             <pubDate>Tue, 17 May 2016 08:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overwatch Animated Short | "Dragons"]]></title>
-            <description><![CDATA[<article><h1>Overwatch Animated Short | "Dragons"</h1><p>Discover the story behind one of Overwatch's biggest rivalries in our third animated short: Dragons! Then begin your watch May 24 on Xbox One: http://www.xbox.com/en-US/games/overwatch "Dragons" explores the history of conflict between the scions of the Shimada clan: Hanzo and Genji.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/275c1e192ac0a5e07b956481898bd5c001c2ed79.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=pfoVEaqAL6M</link>
-            <guid isPermaLink="false">9e555c4a-f17c-4d21-9c7a-e7633487587f</guid>
-            <pubDate>Tue, 17 May 2016 08:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Witcher 3: Wild Hunt -- Blood & Wine Developer Diary]]></title>
-            <description><![CDATA[<article><h1>The Witcher 3: Wild Hunt -- Blood & Wine Developer Diary</h1><p>Listen to CD PROJEKT RED team members talk about the final expansion pack to The Witcher 3: Wild Hunt - Blood and Wine, and learn more about Geralt's final mission, Blood and Wine's new features, and the new open world location of Toussaint. Blood and Wine releases May 31st, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e13c27db7895b7fb70dbfc7359101aa326c5606e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=SoN4rAo4y1I</link>
-            <guid isPermaLink="false">a20f47e5-7a53-45b3-b818-ec8857d2fb42</guid>
-            <pubDate>Tue, 17 May 2016 08:51:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
