@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 08:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 08:07:57 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Batman: Return to Arkham - Welcome to the Madhouse]]></title>
+            <description><![CDATA[<article><h1>Batman: Return to Arkham - Welcome to the Madhouse</h1><p>Return to two of the greatest superhero games of all time - visually enhanced and recreated for a new generation in Batman: Return to Arkham. Includes Batman: Arkham Asylum and Batman: Arkham City and all previously released DLC. Available July 26, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f319e42a9669d18963f93f2195a2c5d85d07b8c2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=tqyUpF7oYiw</link>
+            <guid isPermaLink="false">77b4386d-861e-44df-b206-7df603ce9cd1</guid>
+            <pubDate>Thu, 19 May 2016 08:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring Fallout 4's Far Harbor]]></title>
+            <description><![CDATA[<article><h1>Exploring Fallout 4's Far Harbor</h1><p>Bethesda Game Studios. Far Harbor arrives on Xbox One on Thursday, May 19th. In Far Harbor, a new case from Valentine's Detective Agency leads you on a search for a young woman and a secret colony of synths. Travel off the coast of Maine to the mysterious island of Far Harbor, where higher levels of radiation have created a more feral world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/158a5d0f64961bbff049287192d84cee356f9133.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=X_Ko4HgZoNQ</link>
+            <guid isPermaLink="false">b7e4bc9b-7f9e-44c0-9594-f9dedd88c57e</guid>
+            <pubDate>Thu, 19 May 2016 08:07:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tom Clancy The Division™ Trailer Update 1.2 Conflict [US]]]></title>
             <description><![CDATA[<article><h1>Tom Clancy The Division™ Trailer Update 1.2 Conflict [US]</h1><p>The Fight to save New York continues with the second major free update that introduces a new Incursion called Clear Sky, all new gear sets, weapons and loot, mission to take down enemy leaders, and extractions just got a whole lot more interesting with the Hijack feature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f91be24e705f394676c32bf228ed46d0be70d258.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://youtu.be/YvS8GB-Ke-0</link>
             <guid isPermaLink="false">552675c7-d1ae-4d77-b2d0-cfd6ba0ca0a1</guid>
             <pubDate>Sat, 14 May 2016 14:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Official Call of Duty®: Black Ops III - Eclipse Multiplayer Trailer]]></title>
-            <description><![CDATA[<article><h1>Official Call of Duty®: Black Ops III - Eclipse Multiplayer Trailer</h1><p>Eclipse, the second DLC map pack for Call of Duty®: Black Ops III, arrives on XBox One on May 19, delivering four new action-packed Multiplayer maps, including the re-imagining of the Call of Duty: World at War classic, Banzai.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12a75944bf9e3015e1e555a6957cf4be4972a643.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=r6LRYHfZdJg</link>
-            <guid isPermaLink="false">77fa796c-0506-49bb-b5fc-1a153af9be33</guid>
-            <pubDate>Fri, 13 May 2016 09:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unlocked Frame Rate and More Now Enabled for UWP]]></title>
-            <description><![CDATA[<article><h1>Unlocked Frame Rate and More Now Enabled for UWP</h1><p>What an exciting few months it's been for Windows 10 Gamers In the last few months, we've taken Windows 10 gaming to a new level by partnering with Microsoft Studios to deliver marquee titles such as: Gears of War: Ultimate Edition, Rise of the Tomb Raider, Quantum Break, and Forza Motorsport 6: Apex (Beta), all of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abcdf01a4ad61771eed56f8f830112f6c6f4a39c.jpg"></article>]]></description>
-            <link>https://blogs.msdn.microsoft.com/directx/2016/05/10/unlocked-frame-rate-and-more-now-enabled-for-uwp/</link>
-            <guid isPermaLink="false">353c95ab-d46c-4e43-8814-3f360df35b22</guid>
-            <pubDate>Wed, 11 May 2016 06:47:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
