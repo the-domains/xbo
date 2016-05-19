@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 09:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 08:07:55 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exploring Fallout 4's Far Harbor]]></title>
+            <description><![CDATA[<article><h1>Exploring Fallout 4's Far Harbor</h1><p>Bethesda Game Studios. Far Harbor arrives on Xbox One on Thursday, May 19th. In Far Harbor, a new case from Valentine's Detective Agency leads you on a search for a young woman and a secret colony of synths. Travel off the coast of Maine to the mysterious island of Far Harbor, where higher levels of radiation have created a more feral world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/158a5d0f64961bbff049287192d84cee356f9133.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=X_Ko4HgZoNQ</link>
+            <guid isPermaLink="false">b7e4bc9b-7f9e-44c0-9594-f9dedd88c57e</guid>
+            <pubDate>Thu, 19 May 2016 08:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Clancy The Division™ Trailer Update 1.2 Conflict [US]]]></title>
+            <description><![CDATA[<article><h1>Tom Clancy The Division™ Trailer Update 1.2 Conflict [US]</h1><p>The Fight to save New York continues with the second major free update that introduces a new Incursion called Clear Sky, all new gear sets, weapons and loot, mission to take down enemy leaders, and extractions just got a whole lot more interesting with the Hijack feature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f91be24e705f394676c32bf228ed46d0be70d258.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Y0THe3yL9Cw</link>
+            <guid isPermaLink="false">ef018320-97c1-4246-87e6-1094a5453258</guid>
+            <pubDate>Thu, 19 May 2016 08:07:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Week's Deals With Gold And Spotlight Sale + Square Enix Publisher Sale]]></title>
             <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale + Square Enix Publisher Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 23 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5f760fe8057d57b8adc12a297ab7eb922e81bc.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=r6LRYHfZdJg</link>
             <guid isPermaLink="false">77fa796c-0506-49bb-b5fc-1a153af9be33</guid>
             <pubDate>Fri, 13 May 2016 09:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unlocked Frame Rate and More Now Enabled for UWP]]></title>
-            <description><![CDATA[<article><h1>Unlocked Frame Rate and More Now Enabled for UWP</h1><p>What an exciting few months it's been for Windows 10 Gamers In the last few months, we've taken Windows 10 gaming to a new level by partnering with Microsoft Studios to deliver marquee titles such as: Gears of War: Ultimate Edition, Rise of the Tomb Raider, Quantum Break, and Forza Motorsport 6: Apex (Beta), all of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abcdf01a4ad61771eed56f8f830112f6c6f4a39c.jpg"></article>]]></description>
-            <link>https://blogs.msdn.microsoft.com/directx/2016/05/10/unlocked-frame-rate-and-more-now-enabled-for-uwp/</link>
-            <guid isPermaLink="false">353c95ab-d46c-4e43-8814-3f360df35b22</guid>
-            <pubDate>Wed, 11 May 2016 06:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ID@Xbox Game Fest week 2 is live now: "Play for Free"]]></title>
-            <description><![CDATA[<article><h1>ID@Xbox Game Fest week 2 is live now: "Play for Free"</h1><p>ID@Xbox "Game Fest" will be spotlighting great games from ID@Xbox throughout the entire month of May. In week 2, check out some of the best games from Independent Developers you can play for free right now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e8c7194b7a4507734a9aa7329e2fbc064d6977b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ShUinXafBiA</link>
-            <guid isPermaLink="false">052561ae-8313-4319-a91c-db3d26718bbb</guid>
-            <pubDate>Wed, 11 May 2016 06:47:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
