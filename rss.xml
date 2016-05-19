@@ -4,13 +4,20 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 08:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 08:08:08 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ID@Xbox Game Fest week 3 is live now: "What's Next"]]></title>
             <description><![CDATA[<article><h1>ID@Xbox Game Fest week 3 is live now: "What's Next"</h1><p>ID@Xbox "Game Fest" will be spotlighting great games from ID@Xbox throughout the entire month of May. In week 3, check out the fantastic games in the Xbox Game Preview program along with several of the program's "graduates."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d67742b47b985071720f0d40ec072ca6e88d333.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=TKdeESgqDB4</link>
             <guid isPermaLink="false">2c184bc3-1126-4bbc-9e82-7189fcc1513b</guid>
+            <pubDate>Thu, 19 May 2016 08:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homefront: The Revolution - Launch Trailer (Official)]]></title>
+            <description><![CDATA[<article><h1>Homefront: The Revolution - Launch Trailer (Official)</h1><p>Homefront: The Revolution is an open-world first person shooter where you must lead the Resistance movement in guerrilla warfare against a superior military force. A living, breathing, open world responds to your actions - you and your Resistance Cell can inspire a rebellion on the streets and turn Occupation into Revolution, as oppressed civilians take up the fight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5097b4ecccde508c27599ccf84f5fb3391cafb48.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JPhQ-GhS_-k</link>
+            <guid isPermaLink="false">0d80a295-7273-4b4d-8bc0-82a8cf32346e</guid>
             <pubDate>Thu, 19 May 2016 08:07:27 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=uM8ezDZ8dvQ</link>
             <guid isPermaLink="false">a7bff1da-d8f4-4df3-9b66-628610eb0924</guid>
             <pubDate>Tue, 17 May 2016 08:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MNR 569 Larry and Jeff discuss the latest Xbox news and other stuff by Larry Hryb (Major Nelson)]]></title>
-            <description><![CDATA[<article><h1>MNR 569 Larry and Jeff discuss the latest Xbox news and other stuff by Larry Hryb (Major Nelson)</h1><p>Hi there. I am Larry Hryb, Xbox LIVE's Major Nelson. Yes, I work at Xbox. Yes this is really me. Read more about me here: http://about.me/larryh</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e1ac2956adad680d00f5e9cfe6d3aafbe0bfb79.png"></article>]]></description>
-            <link>https://m.soundcloud.com/xbox/mnr-569-larry-and-jeff-discuss</link>
-            <guid isPermaLink="false">aaa30756-9c7c-41c0-a931-512c72cb6d1f</guid>
-            <pubDate>Mon, 16 May 2016 07:57:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
