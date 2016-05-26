@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 07:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 07:13:43 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overwatch Animated Short | "Hero"]]></title>
+            <description><![CDATA[<article><h1>Overwatch Animated Short | "Hero"</h1><p>Old habits die hard for one ex-Overwatch agent in Blizzard's fourth animated short: Hero. Watch it now, then begin your watch today on Xbox One. "Hero" follows the masked vigilante Soldier: 76 on a personal mission to Dorado where he's set to investigate the illegal activities of the Los Muertos gang-but an unexpected complication threatens to compromise his objective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f2af545b15aa1451100ffba94ae065303c81e9e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hRWoz5c_GFo</link>
+            <guid isPermaLink="false">635102d1-9459-430c-ace5-4e5cb72917ac</guid>
+            <pubDate>Thu, 26 May 2016 07:13:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fenix Furia coming soon to Xbox One]]></title>
             <description><![CDATA[<article><h1>Fenix Furia coming soon to Xbox One</h1><p>Infinite jumps, infinite dashing, and lots of fury and rage, Fenix must track down a mysterious villain responsible for the destruction of his village. As Fenix race through nine worlds filled with thousands of baddies and challenging bosses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e1cfd9fa4507e7707484b62518719a22ece527e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.xbox.com/2016/05/23/e3-2016-fanfest-update/</link>
             <guid isPermaLink="false">8d2ad212-98d4-4791-a947-d655ac9510b3</guid>
             <pubDate>Tue, 24 May 2016 12:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week on Xbox: May 20, 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: May 20, 2016</h1><p>This week includes Mirror's Edge Catalyst news, a new Forza Motorsport 6 expansion, the release of Call of Duty: Black Ops on Xbox One through Backward Compatibility and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2461bf100e70dcf60187774c68ec37567a0fa20b.jpg"></article>]]></description>
-            <link>https://youtu.be/DqOwLFM4Rzo</link>
-            <guid isPermaLink="false">6902c3f8-1d53-498d-8a23-7095267174c7</guid>
-            <pubDate>Mon, 23 May 2016 11:21:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
