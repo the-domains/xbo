@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 07:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 07:13:40 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fenix Furia coming soon to Xbox One]]></title>
+            <description><![CDATA[<article><h1>Fenix Furia coming soon to Xbox One</h1><p>Infinite jumps, infinite dashing, and lots of fury and rage, Fenix must track down a mysterious villain responsible for the destruction of his village. As Fenix race through nine worlds filled with thousands of baddies and challenging bosses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e1cfd9fa4507e7707484b62518719a22ece527e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wFJnHPrqiMY</link>
+            <guid isPermaLink="false">6b92ca1d-c824-40b6-9965-c51ba997e284</guid>
+            <pubDate>Thu, 26 May 2016 07:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dragon Ball XENOVERSE 2 - Announcement Trailer]]></title>
+            <description><![CDATA[<article><h1>Dragon Ball XENOVERSE 2 - Announcement Trailer</h1><p>Dragon Ball XENOVERSE 2 is coming to Xbox One THIS YEAR!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e16cbe748c834a24b2401c00494ab422fd20aff7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MbmDrFJpAuc</link>
+            <guid isPermaLink="false">c3e0b439-ffc4-4e36-864c-43118688840f</guid>
+            <pubDate>Wed, 25 May 2016 07:27:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mark and Chris from Introversion talk about the history and background for Prison Architect]]></title>
             <description><![CDATA[<article><h1>Mark and Chris from Introversion talk about the history and background for Prison Architect</h1><p>Mark and Chris from Introversion have got a following of over 100,000 Prison Architect addicts on their Video channel - not just because it's an amazing game - but for their entertaining double act at the beginning for their monthly update videos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a1a4f89ee1c6689ef85116c791268640375d662.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://youtu.be/DqOwLFM4Rzo</link>
             <guid isPermaLink="false">6902c3f8-1d53-498d-8a23-7095267174c7</guid>
             <pubDate>Mon, 23 May 2016 11:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Witcher 3: Wild Hunt -- Blood and Wine "New Region" Trailer]]></title>
-            <description><![CDATA[<article><h1>The Witcher 3: Wild Hunt -- Blood and Wine "New Region" Trailer</h1><p>Become professional monster slayer Geralt of Rivia and explore Toussaint, a remote land untouched by war, where you will unravel the horrifying secret behind a beast terrorizing the kingdom. With all trails leading to dead ends, only a witcher can solve the mystery and survive the evil lurking in the night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/846d9e212a61cc7914cce9538725faeeeb9d4a7e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=MW3iQBrqcDw</link>
-            <guid isPermaLink="false">f181d5f1-363b-44de-a89b-3264cb887fdc</guid>
-            <pubDate>Fri, 20 May 2016 08:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forging Ahead - The Halo Forge Experience Comes to Windows 10 PC]]></title>
-            <description><![CDATA[<article><h1>Forging Ahead - The Halo Forge Experience Comes to Windows 10 PC</h1><p>From the very beginning, community creations have been central to the Halo experience. From stacking up grenades underneath an unsuspecting Warthog to multiplayer movie-making, the Halo sandbox has always been fertile soil for millions of moments and memories created for, and by, the fans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3502cfbf06cb3653687b6c6f7d2e5c4c9fa33bca.jpg"></article>]]></description>
-            <link>http://news.xbox.com/2016/05/19/forging-ahead-the-halo-forge-experience-comes-to-windows-10-pc/</link>
-            <guid isPermaLink="false">6dfe0c23-0e44-4107-97bf-719c6e2ab9ed</guid>
-            <pubDate>Fri, 20 May 2016 08:02:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
