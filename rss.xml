@@ -4,8 +4,22 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 14:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 16:58:50 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Week on Xbox: May 27, 2016]]></title>
+            <description><![CDATA[<article><h1>This Week on Xbox: May 27, 2016</h1><p>This week includes Deus Ex: Mankind Divided news, cross-network play for Rocket League, the release of Overwatch, a look at upcoming Games with Gold and a lot more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93b455ece8a6d7fc138194bc23e571dc88931fd9.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=R4FqX3Hjn44</link>
+            <guid isPermaLink="false">744762ed-30be-4430-b124-3f4a94e88f19</guid>
+            <pubDate>Wed, 01 Jun 2016 16:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fallout 4 Mods- First On Xbox One]]></title>
+            <description><![CDATA[<article><h1>Fallout 4 Mods- First On Xbox One</h1><p>Vote for your favorite: https://twitter.com/Xbox/status/736248403647025152 Fallout 4 mods are coming to Xbox One! See four of the amazing mods in this video hosted by Major Nelson. You can even vote for your favorite via @Xbox on Twitter- vote and RT for a chance to win a Fallout 4 custom Xbox One!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/329be63734b497e4dba6db70e13e6ad37be3fe3e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2WbVMHg3s2w</link>
+            <guid isPermaLink="false">ad4ce800-8ed1-4e3c-b5bd-8c069cb8efba</guid>
+            <pubDate>Wed, 01 Jun 2016 16:58:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rumour: Microsoft developing on two upgraded Xbox One consoles]]></title>
             <description><![CDATA[<article><h1>Rumour: Microsoft developing on two upgraded Xbox One consoles</h1><p>There are rumours about some of the secrets that Microsoft may hold in store for a big reveal at this years E3 event, some of which may even overshadow the news about the Playstation Neo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11707c30ce2b800c03d73b6d38151a409d05d1da.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=wYCE_L0Camk</link>
             <guid isPermaLink="false">5c15ca05-fb03-4797-89bd-06316393ff57</guid>
             <pubDate>Wed, 25 May 2016 07:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xbox - June Games with Gold]]></title>
-            <description><![CDATA[<article><h1>Xbox - June Games with Gold</h1><p>Play together with Xbox Live Gold. June's Games with Gold lineup for Xbox One includes Goat Simulator and The Crew. For Xbox 360 owners, (and through Xbox One backwards compatibility) June kicks off with Super Meat Boy, followed by XCOM Enemy Unknown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b448b838a2722a9d2547e628c1a952b38780911c.jpg"></article>]]></description>
-            <link>https://youtu.be/-GMCubnsr88</link>
-            <guid isPermaLink="false">6e6788b5-11fc-4ab5-b9e1-2ec6ebca2d84</guid>
-            <pubDate>Tue, 24 May 2016 15:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale + Xbox 360 Super Sale]]></title>
-            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale + Xbox 360 Super Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 30 May 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/972a6886ef07b9566542cc4e8a5b91d83e499be9.jpg"></article>]]></description>
-            <link>https://majornelson.com/2016/05/23/this-weeks-deals-with-gold-and-spotlight-sale-xbox-360-super-sale/</link>
-            <guid isPermaLink="false">70021284-8224-468a-94f6-d770293fb6ab</guid>
-            <pubDate>Tue, 24 May 2016 12:46:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
