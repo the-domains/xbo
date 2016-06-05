@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 20:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 20:12:44 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kick and Fennick Available Now on Xbox One!]]></title>
@@ -18,13 +18,6 @@
             <description><![CDATA[<article><h1>Among the Sleep launch trailer</h1><p>Among the Sleep is a first-person horror game in which you play as a two year old child. Explore the darkness and find out what is really going on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f67a7b11f0571c9645adfa71cf7dcfd0c7820d6.jpg"></article>]]></description>
             <link>https://youtu.be/V7lJYsKWpZs</link>
             <guid isPermaLink="false">bf6f4f84-4cf3-491d-ab45-b5ac67522603</guid>
-            <pubDate>Sun, 05 Jun 2016 20:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dangerous Golf Available Now on Xbox One]]></title>
-            <description><![CDATA[<article><h1>Dangerous Golf Available Now on Xbox One</h1><p>An arcade style sports game with a very explosive twist. Play through a variety of Indoor Courses - make a mess in the Kitchen, wreak havoc in a Palace, or cause chaos in a Castle and set fire to a Gas Station. Rack up scores by causing as much damage and destruction as possible.</p></article>]]></description>
-            <link>https://youtu.be/qBOz1GNTP3E</link>
-            <guid isPermaLink="false">07ae4373-b5bc-4040-b090-8fff2f817bf8</guid>
             <pubDate>Sun, 05 Jun 2016 20:12:15 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>https://majornelson.com/2016/05/31/this-weeks-deals-with-gold-and-spotlight-sale-49/</link>
             <guid isPermaLink="false">972a2bf9-313b-4685-9886-74a700eef4e9</guid>
             <pubDate>Wed, 01 Jun 2016 17:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mirror's Edge Catalyst Launch Trailer - Why We Run]]></title>
+            <description><![CDATA[<article><h1>Mirror's Edge Catalyst Launch Trailer - Why We Run</h1><p>Times are about to change in the city of Glass. Barely out of juvenile detention, skilled Runner Faith Connors stirs things up with the city's Conglomerate and the evil Gabriel Kruger. Faith is forced to start running for something far more important than herself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c793c77ef03fdbb571c7f9de18788f86f02edd7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KU-TDRXw_Ms</link>
+            <guid isPermaLink="false">d67e20ce-2bad-466b-9d54-7b90549e3b29</guid>
+            <pubDate>Wed, 01 Jun 2016 16:58:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
