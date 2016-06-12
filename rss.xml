@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 11:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 11:02:55 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Color Symphony 2 now available for Xbox One]]></title>
+            <description><![CDATA[<article><h1>Color Symphony 2 now available for Xbox One</h1><p>Color Symphony 2 is a puzzle action platformer that utilizes the ambiguity of color. Try to eliminate obstacles or find new paths by using color! This simple rule allows you to solve various problems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb84c55f9c077d8191400d1a970106ba58dc5ffa.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SG_DXHl6O0A</link>
+            <guid isPermaLink="false">da00c095-13f2-4e75-ac0c-82fc4dc55dc7</guid>
+            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Official Destiny: Rise of Iron Reveal Trailer]]></title>
             <description><![CDATA[<article><h1>Official Destiny: Rise of Iron Reveal Trailer</h1><p>Destiny: Rise of Iron is the next expansion to the Destiny universe. It features an all new cinematic story campaign set within The Plaguelands, a brand new location on Earth along with new weapons, armor, gear, and a six-player cooperative raid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee29bfa88f4fb5a2b00f66ed4a0188298f2b05a6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/DAwoIt_hgqM</link>
             <guid isPermaLink="false">b0e02d59-d50a-43a2-b7c1-26f8200d5ad8</guid>
             <pubDate>Sun, 05 Jun 2016 20:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kick and Fennick Available Now on Xbox One!]]></title>
-            <description><![CDATA[<article><h1>Kick and Fennick Available Now on Xbox One!</h1><p>Kick & Fennick tells the story of a young boy named Kick who finds himself waking up in a bright and colorful, yet dangerous world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89e990f3ac21871bcaf19b3c03327e726e89ffaa.jpg"></article>]]></description>
-            <link>https://youtu.be/41Ftr-oKIMc</link>
-            <guid isPermaLink="false">f9a8c943-2355-4bf9-8e21-9287f1392815</guid>
-            <pubDate>Sun, 05 Jun 2016 20:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
