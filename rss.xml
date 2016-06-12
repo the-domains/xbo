@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 11:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 11:03:09 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch Dogs 2 Trailer: Marcus Character Introduction - E3 2016]]></title>
+            <description><![CDATA[<article><h1>Watch Dogs 2 Trailer: Marcus Character Introduction - E3 2016</h1><p>Watch_Dogs 2 stars a brand new hacker in Marcus Holloway. A wrongful victim of ctOS 2.0's invasive crime prediction algorithm, Marcus joins the secret hacker group, Dedsec, to take on a corrupt establishment that is using technology to silently control and oppress the citizens of the San Francisco Bay Area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb57cb4a052f31e2548c948df8c3718ffd09ecc.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yvI38hxZVgY</link>
+            <guid isPermaLink="false">3a4d48d8-dabf-4863-ac20-f3b2c6509486</guid>
+            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Injustice™2 - Announce Trailer - Coming 2017]]></title>
             <description><![CDATA[<article><h1>Injustice™2 - Announce Trailer - Coming 2017</h1><p>Build and power up the ultimate version of your favorite DC legends in INJUSTICE 2. With a massive selection of DC Super Heroes and Super-Villains, INJUSTICE 2 allows you to personalize every iconic character with unique and powerful gear. Take control over how your favorite characters look, how they fight, and how they develop across a huge variety of game modes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f34227cc305416f1fc4e579406bf3cdc2d82df.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://m.soundcloud.com/xbox/mnr-571-next-stop-e3-2016</link>
             <guid isPermaLink="false">f2791dc3-1ffa-40ab-a18f-63966980b7e9</guid>
             <pubDate>Sun, 05 Jun 2016 20:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week on Xbox: June 3, 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: June 3, 2016</h1><p>This week's news includes some Halo updates, a new character for Killer Instinct, early access to Mirror's Edge Catalyst, a new tank for World of Tanks, several game releases and much more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df48e57385a5a10ed80bac56fe8f3a74daa02aef.jpg"></article>]]></description>
-            <link>https://youtu.be/vPapM3V5fb4</link>
-            <guid isPermaLink="false">72946a92-6bfd-4669-8685-8f62f2c4c966</guid>
-            <pubDate>Sun, 05 Jun 2016 20:17:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
