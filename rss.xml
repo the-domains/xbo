@@ -4,15 +4,8 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 11:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 11:03:09 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Minecraft Battle Mini game Trailer]]></title>
-            <description><![CDATA[<article><h1>Minecraft Battle Mini game Trailer</h1><p>Minecraft Battle Mini game arrives on June 21 as a free game update. Compete with your friends in Battle, the first mini game for Minecraft console editions where you get to challenge 4 players in split-screen and up to 8 players online in a fight for survival, where speed, strategy- and sometimes just pure luck- will make you the winner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d49833b16b1e385e8792c8d9d8fd82b83ccf35d8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rK0_e5PxOhw</link>
-            <guid isPermaLink="false">97923ca8-60ca-42fe-8e61-77887e44af88</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[XCOM 2 - Console Announcement Trailer]]></title>
             <description><![CDATA[<article><h1>XCOM 2 - Console Announcement Trailer</h1><p>XCOM 2 is coming to Xbox One! The resistance expands into new territory on September 6, 2016. Join us or become them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f71f23b6d2a3ae2ffc216febfbe06cd73edf91fd.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=bwawqJitA78</link>
             <guid isPermaLink="false">b7510bd0-fafa-4208-9edc-33994a6cb16b</guid>
             <pubDate>Mon, 06 Jun 2016 18:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xbox at E3 2016: It's Right Around the Corner!]]></title>
+            <description><![CDATA[<article><h1>Xbox at E3 2016: It's Right Around the Corner!</h1><p>It's almost here: E3 2016 kicks off next week, with all of the biggest game developers and publishers converging on the Los Angeles Convention Center to bring out the most awesome game reveals and announcements of the year. Here at Xbox, we're hard at work getting ready for the big show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0682ccfe4a9e57e460db1554fb79ec4762373176.jpg"></article>]]></description>
+            <link>http://news.xbox.com/2016/06/06/xbox-e3-2016-right-around-corner/</link>
+            <guid isPermaLink="false">a90b8470-fe08-4f1a-9eb4-dde3dd96d8c0</guid>
+            <pubDate>Mon, 06 Jun 2016 18:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
