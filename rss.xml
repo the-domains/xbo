@@ -4,8 +4,15 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 19:40:21 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Xbox One S]]></title>
+            <description><![CDATA[<article><h1>Xbox One S</h1><p>Introducing the new Xbox One S. Play the greatest games lineup, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colors in games and video with High Dynamic Range technology. Stream 4K video on Netflix and Amazon Video, and watch UHD Blu-ray™ movies in stunning 4K Ultra HD.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
+            <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
+            <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EA Star Wars: A Look Ahead]]></title>
             <description><![CDATA[<article><h1>EA Star Wars: A Look Ahead</h1><p>Take a look at what's going on with some of the amazing Star Wars projects our teams at EA are working on now, including DICE, BioWare, Motive, Visceral Games, Capital Games and our partners at Respawn Entertainment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1091a7e93a4bb98a176f9bfd65cf75a11e0fd886.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Watch Dogs 2 Trailer: Marcus Character Introduction - E3 2016</h1><p>Watch_Dogs 2 stars a brand new hacker in Marcus Holloway. A wrongful victim of ctOS 2.0's invasive crime prediction algorithm, Marcus joins the secret hacker group, Dedsec, to take on a corrupt establishment that is using technology to silently control and oppress the citizens of the San Francisco Bay Area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb57cb4a052f31e2548c948df8c3718ffd09ecc.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=yvI38hxZVgY</link>
             <guid isPermaLink="false">3a4d48d8-dabf-4863-ac20-f3b2c6509486</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Injustice™2 - Announce Trailer - Coming 2017]]></title>
-            <description><![CDATA[<article><h1>Injustice™2 - Announce Trailer - Coming 2017</h1><p>Build and power up the ultimate version of your favorite DC legends in INJUSTICE 2. With a massive selection of DC Super Heroes and Super-Villains, INJUSTICE 2 allows you to personalize every iconic character with unique and powerful gear. Take control over how your favorite characters look, how they fight, and how they develop across a huge variety of game modes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f34227cc305416f1fc4e579406bf3cdc2d82df.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=aUOPG6UjTfI</link>
-            <guid isPermaLink="false">5127194a-6437-400d-956c-c0cc9655fff8</guid>
             <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
         </item>
     </channel>
