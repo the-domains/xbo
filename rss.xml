@@ -4,11 +4,18 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 19:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 08:25:30 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Xbox - Project Scorpio]]></title>
+            <description><![CDATA[<article><h1>Xbox - Project Scorpio</h1><p>The most powerful console ever. Holiday 2017.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a1ddd5e3ad15a97175f47bc922df2a494ce3d3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=F1dRgWpGePs</link>
+            <guid isPermaLink="false">638d0b1e-0e18-479b-a2f3-76aa2ac862b1</guid>
+            <pubDate>Tue, 14 Jun 2016 08:25:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Xbox One S]]></title>
-            <description><![CDATA[<article><h1>Xbox One S</h1><p>Introducing the new Xbox One S. Play the greatest games lineup, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colors in games and video with High Dynamic Range technology. Stream 4K video on Netflix and Amazon Video, and watch UHD Blu-ray™ movies in stunning 4K Ultra HD.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Xbox One S</h1><p>Introducing the new Xbox One S. Play the greatest games lineup, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colors in games and video with High Dynamic Range technology. Stream 4K video on Netflix and Amazon Video, and watch UHD Blu-ray™ movies in stunning 4K Ultra HD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6617e66ef8a993bd8ec59b4a9e5140d974948cb4.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>XCOM 2 - Console Announcement Trailer</h1><p>XCOM 2 is coming to Xbox One! The resistance expands into new territory on September 6, 2016. Join us or become them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f71f23b6d2a3ae2ffc216febfbe06cd73edf91fd.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=kszWszkd-kE</link>
             <guid isPermaLink="false">8835b5f5-92c4-4bbf-bff0-017169d71203</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch Dogs 2 Trailer: Marcus Character Introduction - E3 2016]]></title>
-            <description><![CDATA[<article><h1>Watch Dogs 2 Trailer: Marcus Character Introduction - E3 2016</h1><p>Watch_Dogs 2 stars a brand new hacker in Marcus Holloway. A wrongful victim of ctOS 2.0's invasive crime prediction algorithm, Marcus joins the secret hacker group, Dedsec, to take on a corrupt establishment that is using technology to silently control and oppress the citizens of the San Francisco Bay Area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb57cb4a052f31e2548c948df8c3718ffd09ecc.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=yvI38hxZVgY</link>
-            <guid isPermaLink="false">3a4d48d8-dabf-4863-ac20-f3b2c6509486</guid>
             <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
         </item>
     </channel>
