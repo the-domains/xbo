@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 08:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:17:05 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
+            <description><![CDATA[<article><h1>This Week's Deals With Gold And Spotlight Sale</h1><p>Here are this week's games and add-on deals on the Xbox Games Store. Discounts are valid now through 20 June 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a56fc3ad2a1cb43cf69413884552683/noop?input=https%3A%2F%2Fimages-eds-ssl.xboxlive.com%2Fimage%3Furl%3D8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcMkdUeB.h4DRnbSj9RO2p9SILzebBIzG_Hopi8K3r23pt.mTp1a0I7TP3AgUVmaBV6Y5c2xMtrAiHwic8lPMFBAK.kLWKuWV19h.Jz0wqh5PZ3TZVULdFL6YBwDQ1eDjm5D6UvMdvu6VM2eF5MiEgf70rJLeELNkzrlf0xdp2MV8-%26format%3Dpng%26h%3D294%26w%3D215"></article>]]></description>
+            <link>https://majornelson.com/2016/06/14/this-weeks-deals-with-gold-and-spotlight-sale-51/</link>
+            <guid isPermaLink="false">33457cc3-fa56-465f-b79d-8f961141bf60</guid>
+            <pubDate>Wed, 15 Jun 2016 11:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EA Star Wars: A Look Ahead]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Minecraft Battle Mini game Trailer</h1><p>Minecraft Battle Mini game arrives on June 21 as a free game update. Compete with your friends in Battle, the first mini game for Minecraft console editions where you get to challenge 4 players in split-screen and up to 8 players online in a fight for survival, where speed, strategy- and sometimes just pure luck- will make you the winner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d49833b16b1e385e8792c8d9d8fd82b83ccf35d8.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=rK0_e5PxOhw</link>
             <guid isPermaLink="false">97923ca8-60ca-42fe-8e61-77887e44af88</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[XCOM 2 - Console Announcement Trailer]]></title>
-            <description><![CDATA[<article><h1>XCOM 2 - Console Announcement Trailer</h1><p>XCOM 2 is coming to Xbox One! The resistance expands into new territory on September 6, 2016. Join us or become them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f71f23b6d2a3ae2ffc216febfbe06cd73edf91fd.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=kszWszkd-kE</link>
-            <guid isPermaLink="false">8835b5f5-92c4-4bbf-bff0-017169d71203</guid>
             <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
         </item>
     </channel>
