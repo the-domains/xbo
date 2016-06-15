@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:24:59 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead Rising 4 E3 Announce Trailer]]></title>
+            <description><![CDATA[<article><h1>Dead Rising 4 E3 Announce Trailer</h1><p>Dead Rising 4 E3 Announce Trailer - The ultimate zombie slayer returns in an all-new action packed thrill ride. Let the Slay Ride Begin in Dead Rising 4.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e46ac4b80c127c4a4b1908c2b99332d1/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FGT3cb3f5pM0%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GT3cb3f5pM0</link>
+            <guid isPermaLink="false">1f65b45a-3bda-4550-992c-476ebd4fe44c</guid>
+            <pubDate>Wed, 15 Jun 2016 11:24:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Killer Instinct General RAAM trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Inside</h1><p>From the creators of LIMBO, INSIDE is coming to Xbox One on June 29th. Hunted and alone, a boy finds himself drawn into the center of a dark project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/930e07ab098f1746271144fa2b49a636/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FqgynXVYKVNM%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=qgynXVYKVNM</link>
             <guid isPermaLink="false">2f10c6d4-edfb-40cd-94fb-85867e403b37</guid>
-            <pubDate>Wed, 15 Jun 2016 11:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Happy Few]]></title>
-            <description><![CDATA[<article><h1>We Happy Few</h1><p>Developed by Compulsion Games, "We Happy Few" is coming to Windows 10 and Xbox One this summer. In a dystopian, mod 1964 England that lost World War II, the citizens of Wellington Wells are taking a happy drug called "Joy", and living in denial over their grim existence and a terrible past.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe8973e6e3732fb5252f8f05ed887fa6/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FZeEVws7f8uk%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ZeEVws7f8uk</link>
-            <guid isPermaLink="false">7ad24d2a-c567-402e-9ed4-ab3fefa640ef</guid>
             <pubDate>Wed, 15 Jun 2016 11:21:23 GMT</pubDate>
         </item>
     </channel>
