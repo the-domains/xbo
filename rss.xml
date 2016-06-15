@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:44:25 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[See what's new from ID@Xbox E3 2016]]></title>
+            <description><![CDATA[<article><h1>See what's new from ID@Xbox E3 2016</h1><p>See what's new from ID@Xbox E32016 - Risk takers, rule breakers, and game changers. Xbox is home to the best, most creative and innovative games coming from Independent gamers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07ab3a374acc997f4a964fe753df380d/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F1_mLdDSi7L8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1_mLdDSi7L8</link>
+            <guid isPermaLink="false">39b656e3-e03a-432e-93fc-65e6adab2971</guid>
+            <pubDate>Wed, 15 Jun 2016 11:44:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Xbox Design Lab - Xbox Wireless Controller]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Forza Horizon 3 Official E3 Trailer</h1><p>Forza Horizon 3 Official E3 Trailer - In Forza Horizon 3, you're in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world's greatest cars, including the debut of the 2017 Lamborghini Centenario.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cabdd68bb3fdebbe40642d319ea02bf7/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FfTSUgXkfooA%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=fTSUgXkfooA</link>
             <guid isPermaLink="false">5cffb031-d1c1-4225-9f90-e50671edba66</guid>
-            <pubDate>Wed, 15 Jun 2016 11:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scalebound Xbox E3 Briefing 2016]]></title>
-            <description><![CDATA[<article><h1>Scalebound Xbox E3 Briefing 2016</h1><p>SCALEBOUND E3 GAMEPLAY TRAILER. Check out the first multiplayer co-op gameplay footage from Scalebound, the next great adventure from critically-acclaimed developer PlatinumGames and renowned game director Hideki Kamiya. XBOX ONE & WINDOWS 10 EXCLUSIVE | COMING IN 2017. Learn more on Xbox.com.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/971f57e8dad2a71fc90eb60bd0acae28/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FD-ZVMU_KA-M%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=D-ZVMU_KA-M</link>
-            <guid isPermaLink="false">1596c95e-5d18-458c-b77b-6f190e594fc8</guid>
             <pubDate>Wed, 15 Jun 2016 11:24:54 GMT</pubDate>
         </item>
     </channel>
