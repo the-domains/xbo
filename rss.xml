@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:45:05 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xbox Play Anywhere - Anywhere is a great place to play]]></title>
+            <description><![CDATA[<article><h1>Xbox Play Anywhere - Anywhere is a great place to play</h1><p>Experience the freedom to play your games wherever you want. Now when you own an Xbox Play Anywhere title, it's yours to play on both Xbox One and Windows 10 PC at no additional cost. www.xbox.com/xbox-play-anywhere</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8950b5ecac1e5da6cbeeb2fbf69d99ce/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FKDtOEvxjnG0%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KDtOEvxjnG0</link>
+            <guid isPermaLink="false">3ceccbe8-16e7-4123-bb61-8872199bbaef</guid>
+            <pubDate>Wed, 15 Jun 2016 11:44:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Xbox One - E3 2016 Games Montage]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Announcing State of Decay 2 - Xbox E3 2016</h1><p>STATE OF DECAY 2 E3 ANNOUNCE TRAILER. The next installment in the critically acclaimed "State of Decay" franchise immerses you in an all-new, multiplayer zombie survival fantasy. Build a lasting community, working with other players or solo to overcome challenges while exploring your own unique story in a world that remembers the choices you make.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26e3d426f3371eb9acbd335f66523ce5/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F_JMJFyXuGUw%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=_JMJFyXuGUw</link>
             <guid isPermaLink="false">6ec59342-ffd6-414f-a635-52f3329a2072</guid>
-            <pubDate>Wed, 15 Jun 2016 11:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halo Wars 2 Official E3 Trailer]]></title>
-            <description><![CDATA[<article><h1>Halo Wars 2 Official E3 Trailer</h1><p>Halo Wars 2 Official E3 Trailer - In Halo Wars 2, the Spirit of Fire and her crew, led by Captain Cutter, face a deadly new faction known as The Banished. Their chief, the Brute warlord Atriox, is both a deadly warrior and brilliant military leader in control of a massive army.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/58bfdc8930843ece38f91f5fd2147aa8/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FkjN1eWhzPeA%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=kjN1eWhzPeA</link>
-            <guid isPermaLink="false">edc7584c-5551-4144-a07f-7af02a72c76d</guid>
             <pubDate>Wed, 15 Jun 2016 11:24:54 GMT</pubDate>
         </item>
     </channel>
