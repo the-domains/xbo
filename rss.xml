@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:25:31 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forza Horizon 3 Official E3 Trailer]]></title>
+            <description><![CDATA[<article><h1>Forza Horizon 3 Official E3 Trailer</h1><p>Forza Horizon 3 Official E3 Trailer - In Forza Horizon 3, you're in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world's greatest cars, including the debut of the 2017 Lamborghini Centenario.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cabdd68bb3fdebbe40642d319ea02bf7/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FfTSUgXkfooA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=fTSUgXkfooA</link>
+            <guid isPermaLink="false">5cffb031-d1c1-4225-9f90-e50671edba66</guid>
+            <pubDate>Wed, 15 Jun 2016 11:24:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ReCore E3 Gameplay Trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Forza Horizon 3 E3 Trailer World Debut and Onstage Demo</h1><p>The Forza Horizon 3 E3 segment brings you the world premier trailer and an onstage demo featuring 4-player co-op and Windows 10 cross play. In Forza Horizon 3, you're in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world's greatest cars, including the debut of the 2017 Lamborghini Centenario.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28076417c0eeccfe6b2f3af2ef82e77d/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FGnuAgRdTtHM%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=GnuAgRdTtHM</link>
             <guid isPermaLink="false">f3d08bcb-59b5-431f-8373-9b582ef826d8</guid>
-            <pubDate>Wed, 15 Jun 2016 11:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft E3 2016]]></title>
-            <description><![CDATA[<article><h1>Minecraft E3 2016</h1><p>Minecraft Live at E3 2016! Minecraft Realms brings fast and easy cross-device multiplayer to iOS, Android, Windows 10 and Gear VR, powered by Xbox Live! Plus, a sneak peek at the future of modding with Add-Ons, coming this fall.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46f835ef6ae804ae2cad4296214e900c/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FByy0En3tCQU%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Byy0En3tCQU</link>
-            <guid isPermaLink="false">39d2be70-542c-4ff5-b5f6-385bc5e291fb</guid>
             <pubDate>Wed, 15 Jun 2016 11:21:23 GMT</pubDate>
         </item>
     </channel>
