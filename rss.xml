@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:17:10 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Titanfall 2: Official Single Player Gameplay Trailer]]></title>
+            <description><![CDATA[<article><h1>Titanfall 2: Official Single Player Gameplay Trailer</h1><p>Pilot and Titan unite as never before in Respawn Entertainment's highly anticipated Titanfall® 2. Featuring a crafted single player campaign that explores the unique bond between man and machine, players will step on to The Frontier as a Militia rifleman with aspirations of becoming a Pilot.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bcc057d9d0b23773190a8329c8e4614/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F_vzoUJExToM%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_vzoUJExToM</link>
+            <guid isPermaLink="false">30620271-2d8f-4b74-aa0d-0e11c6d1a0eb</guid>
+            <pubDate>Wed, 15 Jun 2016 11:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FINAL FANTASY XV Trailer Feat: Afrojack]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Free Multiplayer Weekend on Xbox One and Xbox 360 - June 9-12</h1><p>For the first time ever, multiplayer is FREE on Xbox One. Play with your friends on both Xbox One and Xbox 360 for #FreeMultiplayerWeekend June 9-12. Plus, try award-winning and amazing Rocket League for free. So tag your friends and get ready for an epic weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/446d90fd3e3324196b57d529fd2f9d06d97a1648.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=5F3jVC3imZA</link>
             <guid isPermaLink="false">4906a377-84e8-41e1-945e-480e000585cd</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HITMAN - Elusive Target #3 - The Prince]]></title>
-            <description><![CDATA[<article><h1>HITMAN - Elusive Target #3 - The Prince</h1><p>A new Elusive Target contract is available in HITMAN™ this week! 'The Prince' will only be in Sapienza for 72 hours, starting on Wednesday, June 8.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ddf9400ad68f9a203294e9d45efc490535a424a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=hedBTAsL-1g</link>
-            <guid isPermaLink="false">4e3603e9-caaf-4f44-858a-b595e3f509d4</guid>
             <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
         </item>
     </channel>
