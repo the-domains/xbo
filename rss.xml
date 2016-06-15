@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:17:07 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FINAL FANTASY XV Trailer Feat: Afrojack]]></title>
+            <description><![CDATA[<article><h1>FINAL FANTASY XV Trailer Feat: Afrojack</h1><p>Our latest trailer is out now and just in time for E3! Set to an energetic FINAL FANTASY XV track remixed by the Grammy Award winning DJ, this trailer showcases the battle system of FINAL FANTASY XV in all its glory. Get ready for the ultimate experience on September 30, 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/41e7685124acd189841624b9b8c41b57/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F4txlpmKxX4E%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=4txlpmKxX4E</link>
+            <guid isPermaLink="false">9e971ff7-2298-4f93-a80c-9777363f1147</guid>
+            <pubDate>Wed, 15 Jun 2016 11:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Week's Deals With Gold And Spotlight Sale]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>HITMAN - Elusive Target #3 - The Prince</h1><p>A new Elusive Target contract is available in HITMAN™ this week! 'The Prince' will only be in Sapienza for 72 hours, starting on Wednesday, June 8.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ddf9400ad68f9a203294e9d45efc490535a424a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=hedBTAsL-1g</link>
             <guid isPermaLink="false">4e3603e9-caaf-4f44-858a-b595e3f509d4</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft Battle Mini game Trailer]]></title>
-            <description><![CDATA[<article><h1>Minecraft Battle Mini game Trailer</h1><p>Minecraft Battle Mini game arrives on June 21 as a free game update. Compete with your friends in Battle, the first mini game for Minecraft console editions where you get to challenge 4 players in split-screen and up to 8 players online in a fight for survival, where speed, strategy- and sometimes just pure luck- will make you the winner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d49833b16b1e385e8792c8d9d8fd82b83ccf35d8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rK0_e5PxOhw</link>
-            <guid isPermaLink="false">97923ca8-60ca-42fe-8e61-77887e44af88</guid>
             <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
         </item>
     </channel>
