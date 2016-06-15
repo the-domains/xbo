@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:21:27 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We Happy Few]]></title>
+            <description><![CDATA[<article><h1>We Happy Few</h1><p>Developed by Compulsion Games, "We Happy Few" is coming to Windows 10 and Xbox One this summer. In a dystopian, mod 1964 England that lost World War II, the citizens of Wellington Wells are taking a happy drug called "Joy", and living in denial over their grim existence and a terrible past.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe8973e6e3732fb5252f8f05ed887fa6/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FZeEVws7f8uk%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ZeEVws7f8uk</link>
+            <guid isPermaLink="false">7ad24d2a-c567-402e-9ed4-ab3fefa640ef</guid>
+            <pubDate>Wed, 15 Jun 2016 11:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Xbox One S 2TB Launch Edition Console Is Now Available For Pre-Order]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=4pY3hlQEOc0</link>
             <guid isPermaLink="false">1b293aaf-49e0-4ef7-af5d-f00e7148893b</guid>
             <pubDate>Mon, 13 Jun 2016 06:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xbox E3 2016 Briefing]]></title>
-            <description><![CDATA[<article><h1>Xbox E3 2016 Briefing</h1><p>Tune in for the newest games, tech and features coming to Xbox One and Windows 10. Monday, June 13th | 9:30 am PDT. Watch live on Spike TV, your console and xbox.com.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9ca6e74005c116ba5417698d9685383013498ff.jpg"></article>]]></description>
-            <link>http://www.xbox.com/e3</link>
-            <guid isPermaLink="false">5a26bada-2a2c-4c60-852d-88208bdda3a2</guid>
-            <pubDate>Sun, 12 Jun 2016 11:05:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
