@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:17:32 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xbox One S 2TB Launch Edition Console Is Now Available For Pre-Order]]></title>
+            <description><![CDATA[<article><h1>Xbox One S 2TB Launch Edition Console Is Now Available For Pre-Order</h1><p>Introducing the new Xbox One S. Play the greatest games lineup, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colors in games and video with High Dynamic Range. Stream 4K video on Netflix and Amazon Video, and watch UHD Blu-ray movies in stunning 4K Ultra HD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4caad63233dbfe7235ffe0bec1478881/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCk4sZ6_XIAAC92_.jpg"></article>]]></description>
+            <link>https://majornelson.com/2016/06/14/xbox-one-s-2tb-launch-edition-console-is-now-available-for-pre-order/</link>
+            <guid isPermaLink="false">8ddaedcb-fd6b-4a1d-8e01-7d493144ca26</guid>
+            <pubDate>Wed, 15 Jun 2016 11:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sea of Thieves Trailer & Gameplay - Xbox E3 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.xbox.com/e3</link>
             <guid isPermaLink="false">5a26bada-2a2c-4c60-852d-88208bdda3a2</guid>
             <pubDate>Sun, 12 Jun 2016 11:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LEGO Dimensions is about to get even bigger!]]></title>
-            <description><![CDATA[<article><h1>LEGO Dimensions is about to get even bigger!</h1><p>With more characters joining in on the fun, get ready for the wildest mash-ups this side of the Multiverse. Play through full-movie experiences of the year's biggest blockbusters with immersive 6-level Story Packs, and prepare for battle in all-new Adventure World Battle Arenas where you can challenge friends in 4-player competitive split-screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91549db8f7eeb1fae9cabb5b2496260ecc7c9789.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=u4uvlTVV1Fc</link>
-            <guid isPermaLink="false">1d72d5bd-5288-457c-af06-0816ba28879b</guid>
-            <pubDate>Sun, 12 Jun 2016 11:02:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
