@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 19:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 12:44:35 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Phil Spencer discusses the new Xbox One S]]></title>
+            <description><![CDATA[<article><h1>Phil Spencer discusses the new Xbox One S</h1><p>The Xbox One S was announced at our Xbox At E3 2016 briefing and I had the opportunity to sit down with Phil Spencer and chat about it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfead147605523b61f51da724273c52a/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FQtFUTiwPcQs%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QtFUTiwPcQs</link>
+            <guid isPermaLink="false">db9d3ffc-dbec-4862-aee9-684e232aeecb</guid>
+            <pubDate>Tue, 21 Jun 2016 12:44:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Xbox E3 2016 Briefing Highlights]]></title>
-            <description><![CDATA[<article><h1>Xbox E3 2016 Briefing Highlights</h1><p>The newest games and features coming to Xbox One and Windows 10.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Xbox E3 2016 Briefing Highlights</h1><p>The newest games and features coming to Xbox One and Windows 10.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a9813904761409bc4c646a1bf4ce899/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FVuYUecXUTvk%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=VuYUecXUTvk</link>
             <guid isPermaLink="false">d7ad3a3d-1d41-49e4-9ffe-db3a12263008</guid>
             <pubDate>Wed, 15 Jun 2016 19:16:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=yGxxXkDqRS8</link>
             <guid isPermaLink="false">c3fa43f6-d5c9-44fe-90de-d6fe7480b0b3</guid>
             <pubDate>Wed, 15 Jun 2016 11:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Battlefield 1 E3 2016 Xbox Briefing]]></title>
-            <description><![CDATA[<article><h1>Battlefield 1 E3 2016 Xbox Briefing</h1><p>You look into the distance and see planes torn apart by gunfire, their debris raining down over London. In war-torn France to the east, horrible armored tanks tear holes in walls as they roll through crumbling cities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6e0fcd94416b29bd4698b731af638df/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FpyE_FB9alMo%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=pyE_FB9alMo</link>
-            <guid isPermaLink="false">e0a3bdcb-aead-4665-8fc1-858cf0ed250f</guid>
-            <pubDate>Wed, 15 Jun 2016 11:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
