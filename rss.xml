@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 12:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 12:54:36 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Wars Battlefront - Bespin Gameplay Trailer]]></title>
+            <description><![CDATA[<article><h1>Star Wars Battlefront - Bespin Gameplay Trailer</h1><p>Experience new heroes, maps, mode, weapons, star cards and more in the new Bespin digital expansion. Join Lando Calrissian and Dengar in the Cloud City of Bespin. Take flight in a cloud car, journey through Cloud City, navigate carbon-freezing chambers, or hunt enemies with the X-8 Night Sniper and EE-4 blasters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66a8fbac9bf9ca0012fbcfd482f96965/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FzRLkEcee84s%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zRLkEcee84s</link>
+            <guid isPermaLink="false">43c4c202-e6c7-4799-906b-4e032384ffd8</guid>
+            <pubDate>Tue, 21 Jun 2016 12:54:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Play First, Play More, Pay Less. All with EA Access.]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=HIvOcYhnqxU</link>
             <guid isPermaLink="false">ba9c193a-279f-4894-8394-1704cf1c4e2f</guid>
             <pubDate>Wed, 15 Jun 2016 11:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See what's new from ID@Xbox E3 2016]]></title>
-            <description><![CDATA[<article><h1>See what's new from ID@Xbox E3 2016</h1><p>See what's new from ID@Xbox E32016 - Risk takers, rule breakers, and game changers. Xbox is home to the best, most creative and innovative games coming from Independent gamers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07ab3a374acc997f4a964fe753df380d/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F1_mLdDSi7L8%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=1_mLdDSi7L8</link>
-            <guid isPermaLink="false">39b656e3-e03a-432e-93fc-65e6adab2971</guid>
-            <pubDate>Wed, 15 Jun 2016 11:44:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
