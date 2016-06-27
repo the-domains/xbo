@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 12:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 12:04:03 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Week on Xbox: June 24 , 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: June 24 , 2016</h1><p>On this week's episode we recap some of best Xbox moments from E3 2016 and what they mean for you.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50754f85de4e55b8270d9dcf0f703d03/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F18RhSkWrAX0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=18RhSkWrAX0</link>
-            <guid isPermaLink="false">7efad17b-9cb7-44da-b5fb-3a4725e95e53</guid>
-            <pubDate>Mon, 27 Jun 2016 12:03:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MNR 572 After E3 2016 by Larry Hryb (Major Nelson)]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Tom Clancy's Ghost Recon Wildlands Trailer: Fight for the Wildlands - E3 2016</h1><p>In Ghost Recon Wildlands the fight against the Santa Blanca Cartel is just beginning. Watch the latest trailer and see how four spec ops experts will dismantle a massive and powerful drug syndicate. Ghost Recon Wildlands releases March 7, 2017.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f37a6249f087311a502b63c030687fe8/croprotate.jpg?cropheight=287&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FPpAVn6XxiCM%2Fhqdefault.jpg&x=0&y=33"></article>]]></description>
             <link>https://www.youtube.com/watch?v=PpAVn6XxiCM</link>
             <guid isPermaLink="false">d17b95c7-e861-48df-9b8b-97be7a721813</guid>
+            <pubDate>Sat, 25 Jun 2016 11:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Park: The Fractured But Whole Trailer - E3 2016 [US]]]></title>
+            <description><![CDATA[<article><h1>South Park: The Fractured But Whole Trailer - E3 2016 [US]</h1><p>Cartman is determined to turn Coon and Friends into the biggest superhero franchise of all time. "South Park: The Fractured But Whole" will be available on Xbox Oneon December 6. For more info, checkout SouthParkGame.com.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcef36153f4d2ead1b56fadcd0d7b3cb/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F1S87YXNdLjQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1S87YXNdLjQ</link>
+            <guid isPermaLink="false">9660288c-b4e7-4ae0-9a3c-b633fc493054</guid>
             <pubDate>Sat, 25 Jun 2016 11:39:55 GMT</pubDate>
         </item>
     </channel>
