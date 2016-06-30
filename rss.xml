@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 11:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 11:10:32 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -21,24 +21,10 @@
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[INSIDE now available for Xbox One]]></title>
-            <description><![CDATA[<article><h1>INSIDE now available for Xbox One</h1><p>Hunted and alone, a boy finds himself drawn into the center of a dark project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0bccc7d7dd93122caaeffd68f1fb200/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FJqEu7vCs088%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=JqEu7vCs088</link>
-            <guid isPermaLink="false">805a27f2-290d-48d8-b318-adb40802dbec</guid>
-            <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Magic Circle: Gold Edition for Xbox One]]></title>
-            <description><![CDATA[<article><h1>The Magic Circle: Gold Edition for Xbox One</h1><p>The Magic Circle Comes to Xbox One June 29th, 2016! A dark comedy about the creators of unfinished games, starring James Urbaniak (Venture Bros, American Splendor), Stephen Russell (Thief Series, Skyrim), Ashly Burch (Borderlands 2, HAWP), Karen Dyer (Resident Evil 5) ... and YOU. Can you out-think the game gods?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/55ecb61c27916ab277d776dff63bbdd0/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FQ_Mb1D5eVL0%2Fmaxresdefault.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Magic Circle: Gold Edition for Xbox One</h1><p>The Magic Circle Comes to Xbox One June 29th, 2016! A dark comedy about the creators of unfinished games, starring James Urbaniak (Venture Bros, American Splendor), Stephen Russell (Thief Series, Skyrim), Ashly Burch (Borderlands 2, HAWP), Karen Dyer (Resident Evil 5) ... and YOU. Can you out-think the game gods?</p></article>]]></description>
             <link>https://www.youtube.com/watch?v=Q_Mb1D5eVL0</link>
             <guid isPermaLink="false">b8a2ddd4-fc67-40ab-acd4-950e5b5ff707</guid>
-            <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Mojo Rampage Release Trailer Xbox One]]></title>
-            <description><![CDATA[<article><h1>Full Mojo Rampage Release Trailer Xbox One</h1><p>Full Mojo Rampage is out now on Xbox One in North America and Europe! Set in the mystical shoes of a knowledge-hungry apprentice, players serve deities known as Loa in their pursuit of strange dark magic in a bizarre Voodoo reality. Utilizing abilities bestowed by Loa alongside an ever­changing array of enchanted items known as mojos.</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=TTUMR6oNSmM</link>
-            <guid isPermaLink="false">f46c8256-dcbb-4a75-adc3-4cfe41b9a600</guid>
             <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +61,20 @@
             <link>https://www.youtube.com/watch?v=03fHhTRzOg4</link>
             <guid isPermaLink="false">e616f61b-0d95-4302-ac67-35f28a76ff18</guid>
             <pubDate>Thu, 30 Jun 2016 11:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Week on Xbox: June 24 , 2016]]></title>
+            <description><![CDATA[<article><h1>This Week on Xbox: June 24 , 2016</h1><p>On this week's episode we recap some of best Xbox moments from E3 2016 and what they mean for you.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50754f85de4e55b8270d9dcf0f703d03/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F18RhSkWrAX0%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=18RhSkWrAX0</link>
+            <guid isPermaLink="false">7efad17b-9cb7-44da-b5fb-3a4725e95e53</guid>
+            <pubDate>Mon, 27 Jun 2016 12:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MNR 572 After E3 2016 by Larry Hryb (Major Nelson)]]></title>
+            <description><![CDATA[<article><h1>MNR 572 After E3 2016 by Larry Hryb (Major Nelson)</h1><p>Larry Hryb, Xbox Major Nelson Gamertag: lollip0p Gamertag: Rubes Behind the scenes at E3 2016 Name The Game And more.</p></article>]]></description>
+            <link>https://soundcloud.com/xbox/mnr-572-after-e3-2016</link>
+            <guid isPermaLink="false">c557e75d-0609-4efc-bfd2-275f00c3c6f5</guid>
+            <pubDate>Mon, 27 Jun 2016 12:03:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
