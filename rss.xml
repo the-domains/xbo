@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 08:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 09:46:53 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -19,6 +19,20 @@
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">9f3ea305-3f74-4d06-814a-e3cb83235cc1</guid>
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Week on Xbox: July 1 , 2016]]></title>
+            <description><![CDATA[<article><h1>This Week on Xbox: July 1 , 2016</h1><p>This week includes a massive Halo update, the first expansion for Tom Clancy's The Division, the release of the highly anticipated indie title Inside, big BioShock news and more.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=YkNuSgpAa-c</link>
+            <guid isPermaLink="false">cc5d91e3-7fd2-4b41-ac9e-cab16eaa3099</guid>
+            <pubDate>Mon, 04 Jul 2016 09:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xbox Store Ultimate Game Sale Video]]></title>
+            <description><![CDATA[<article><h1>Xbox Store Ultimate Game Sale Video</h1><p>Great deals for summer are here. Ultimate Game Sale begins July 5 and runs through July 11. Take advantage of over 250 offers with a savings of up to 40-60%. In addition, Xbox Live Gold members can save up to 10% more on games. http://news.xbox.com/2016/07/01/xbox-ultimate-game-sale-begins-on-july-5/</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4a9252e0133a2cb9b174c9e2062fbe0/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FFlUdodYhxKU%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=FlUdodYhxKU</link>
+            <guid isPermaLink="false">2f8f731b-6b40-4065-b817-b8cddd91c4ba</guid>
+            <pubDate>Mon, 04 Jul 2016 09:46:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Record-Setting E3 2016 Kicks Off a New Era of Gaming]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=TTUMR6oNSmM</link>
             <guid isPermaLink="false">f46c8256-dcbb-4a75-adc3-4cfe41b9a600</guid>
             <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halo 5: Guardians Warzone Firefight Trailer]]></title>
-            <description><![CDATA[<article><h1>Halo 5: Guardians Warzone Firefight Trailer</h1><p>Warzone Firefight is the biggest expansion to Halo 5: Guardians yet and available now as a free download! As the eighth free expansion, Halo 5: Guardians' multiplayer now has over 2X the content since launch!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1c3595050517e8a0b4a63fb7734a6b6/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F3My_2vZQjBI%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=3My_2vZQjBI</link>
-            <guid isPermaLink="false">da001eb0-4d30-4443-9b77-7f915db9b5b3</guid>
-            <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mafia III Family Kick-Back Trailer]]></title>
-            <description><![CDATA[<article><h1>Mafia III Family Kick-Back Trailer</h1><p>Building a criminal empire takes muscle and firepower. As the new boss in town, your new family is showing their loyalty with territory Kick-Back gifts. Pre-order Mafia III and get the bonus Family Kick-Back digital download, three exclusive vehicles and weapons to help you take down your enemies and own the city.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c65e27b01199a95be8a67d527df7705b/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FOq4AXuQY1Q0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Oq4AXuQY1Q0</link>
-            <guid isPermaLink="false">a19bceb8-f362-445f-b8af-15c90bbf6c7e</guid>
-            <pubDate>Thu, 30 Jun 2016 11:09:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
