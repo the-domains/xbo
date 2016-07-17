@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 09:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 09:24:33 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox - Project Scorpio]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 13 Jun 2016 19:39:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This Week on Xbox: July 15th 2016]]></title>
+            <description><![CDATA[<article><h1>This Week on Xbox: July 15th 2016</h1><p>This week's headlines include Call of Duty: Black Ops 3, Gold Edition, the release of the Solus Project, Song of the Deep, a brand new Forza Motorsport 6 car pack and much more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bd3d32c0aaa6dc473cd91817a3192ca2/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIlYdL-gqkqg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=IlYdL-gqkqg</link>
+            <guid isPermaLink="false">1afc221e-baca-40e4-b3d5-4aa6e8608198</guid>
+            <pubDate>Sun, 17 Jul 2016 09:24:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Week on Xbox: July 1 , 2016]]></title>
-            <description><![CDATA[<article><h1>This Week on Xbox: July 1 , 2016</h1><p>This week includes a massive Halo update, the first expansion for Tom Clancy's The Division, the release of the highly anticipated indie title Inside, big BioShock news and more.</p></article>]]></description>
+            <description><![CDATA[<article><h1>This Week on Xbox: July 1 , 2016</h1><p>This week includes a massive Halo update, the first expansion for Tom Clancy's The Division, the release of the highly anticipated indie title Inside, big BioShock news and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fdc665f91b079b2385e73894250c4a14/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FYkNuSgpAa-c%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=YkNuSgpAa-c</link>
             <guid isPermaLink="false">cc5d91e3-7fd2-4b41-ac9e-cab16eaa3099</guid>
             <pubDate>Mon, 04 Jul 2016 09:46:27 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Magic Circle: Gold Edition for Xbox One</h1><p>The Magic Circle Comes to Xbox One June 29th, 2016! A dark comedy about the creators of unfinished games, starring James Urbaniak (Venture Bros, American Splendor), Stephen Russell (Thief Series, Skyrim), Ashly Burch (Borderlands 2, HAWP), Karen Dyer (Resident Evil 5) ... and YOU. Can you out-think the game gods?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/55ecb61c27916ab277d776dff63bbdd0/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FQ_Mb1D5eVL0%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Q_Mb1D5eVL0</link>
             <guid isPermaLink="false">b8a2ddd4-fc67-40ab-acd4-950e5b5ff707</guid>
-            <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Mojo Rampage Release Trailer Xbox One]]></title>
-            <description><![CDATA[<article><h1>Full Mojo Rampage Release Trailer Xbox One</h1><p>Full Mojo Rampage is out now on Xbox One in North America and Europe! Set in the mystical shoes of a knowledge-hungry apprentice, players serve deities known as Loa in their pursuit of strange dark magic in a bizarre Voodoo reality. Utilizing abilities bestowed by Loa alongside an ever­changing array of enchanted items known as mojos.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4a46e93d48e40c8726c785f4ef0dfc9/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FTTUMR6oNSmM%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=TTUMR6oNSmM</link>
-            <guid isPermaLink="false">f46c8256-dcbb-4a75-adc3-4cfe41b9a600</guid>
             <pubDate>Thu, 30 Jun 2016 11:10:05 GMT</pubDate>
         </item>
     </channel>
