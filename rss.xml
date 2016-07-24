@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 09:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 09:52:38 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>This Week on Xbox: July 8 , 2016</h1><p>This week's headlines include the release of Red Dead Redemption through Backward Compatibility for Xbox One, a new look at Ark: Survival Evolved, the Ultimate Game Sale and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/03314a55cace2f140ecdb115a83f76e0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F8zpeIJHNGCg%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=8zpeIJHNGCg</link>
             <guid isPermaLink="false">ef8cec2f-f8ae-422d-8c59-ba4cc64e0d39</guid>
+            <pubDate>Sun, 24 Jul 2016 09:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIFA 17 Cover Vote - Your Cover. Your Call.]]></title>
+            <description><![CDATA[<article><h1>FIFA 17 Cover Vote - Your Cover. Your Call.</h1><p>Four of the best talents in world football - James Rodriguez, Anthony Martial, Marco Reus, and Eden Hazard. One global FIFA 17 cover star. YOUR COVER. YOUR CALL.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66ec7e184dd24a1edb33174d76e3523b/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDnWO_5YNzps%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DnWO_5YNzps</link>
+            <guid isPermaLink="false">2c5bd93f-5e61-4bf9-9953-1e3972bb0301</guid>
             <pubDate>Sun, 24 Jul 2016 09:52:34 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>https://majornelson.com/2016/06/27/this-weeks-deals-with-gold-and-spotlight-sale-53/</link>
             <guid isPermaLink="false">06153aba-cf2d-40d7-94ca-c9274b626832</guid>
             <pubDate>Fri, 01 Jul 2016 08:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xbox - July Games with Gold]]></title>
-            <description><![CDATA[<article><h1>Xbox - July Games with Gold</h1><p>Play together with Xbox Live Gold. July's Games with Gold lineup for Xbox One includes The Banner Saga 2 and Tumblestone. For Xbox 360 owners (and through Xbox One backward compatibility), July kicks off with Tom Clancy's Rainbow Six: Vegas 2, followed by Tron Evolution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/179026c30211eda851eb89c20f92f549/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FMS5RpAcOvLM%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=MS5RpAcOvLM</link>
-            <guid isPermaLink="false">2c437f19-b800-4a18-92a3-22d759936a53</guid>
-            <pubDate>Thu, 30 Jun 2016 11:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
