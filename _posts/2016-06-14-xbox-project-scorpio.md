@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Xbox
-    url: 'https://www.youtube.com/user/xbox'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=F1dRgWpGePs'
+inLanguage: en
 keywords:
   - xbox
   - duration
@@ -21,7 +16,13 @@ keywords:
   - ps4-xbox
   - one-windows-linux-mac
 description: The most powerful console ever. Holiday 2017.
-inLanguage: en
+datePublished: '2016-07-24T08:14:52.945Z'
+dateModified: '2016-07-24T08:14:52.521Z'
+author:
+  - name: Xbox
+    url: 'https://www.youtube.com/user/xbox'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=F1dRgWpGePs&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=F1dRgWpGePs'
 title: Xbox - Project Scorpio
-datePublished: '2016-06-14T08:25:26.151Z'
-dateModified: '2016-06-14T08:25:18.542Z'
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
-starred: true
 sourcePath: _posts/2016-06-14-xbox-project-scorpio.md
+via: {}
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
