@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 07:48:52 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Solus Project: Xbox One Launch Trailer]]></title>
+            <description><![CDATA[<article><h1>The Solus Project: Xbox One Launch Trailer</h1><p>The Solus Project has now left Xbox Game Preview and was released in full and with final content for Xbox One!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7255c70d932ecb1cab1b77926ebf1f50/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FlIg-GZKd0z4%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=lIg-GZKd0z4</link>
+            <guid isPermaLink="false">33120674-e6c6-45fd-ab95-f05d5aa86827</guid>
+            <pubDate>Mon, 25 Jul 2016 07:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Star Wars Battlefront: Death Star Teaser Trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>FIFA 17 Gameplay Features - New Attacking Techniques - Anthony Martial</h1><p>Clinical in the final third, Anthony Martial embodies the New Attacking Techniques in FIFA 17. New options in attack give players more ways to create chances and finish in front of goal.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e9ee3f9946ecbbb04989fac645ae4d89/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FMbv9XoJ3f7Q%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Mbv9XoJ3f7Q</link>
             <guid isPermaLink="false">a6b88a94-72ce-41d3-84fc-23f5e6b6b138</guid>
-            <pubDate>Sun, 24 Jul 2016 10:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forza Motorsport 6 Turn 10 Select Car Pack "Buddies"]]></title>
-            <description><![CDATA[<article><h1>Forza Motorsport 6 Turn 10 Select Car Pack "Buddies"</h1><p>Arriving today for Forza Motorsport 6, the Turn 10 Select Car Pack features one of the most diverse collections of cars ever seen in Forza history, with each vehicle hand-picked by the team at Turn 10.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/753a675d738eb9f766e8dd510f56da27/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGWmqwBmaNFA%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=GWmqwBmaNFA</link>
-            <guid isPermaLink="false">87ebdf2f-5edd-484e-849a-784b050b7b1e</guid>
             <pubDate>Sun, 24 Jul 2016 10:06:54 GMT</pubDate>
         </item>
     </channel>
