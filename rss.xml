@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 08:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 08:08:05 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magic Duels - Eldritch Moon Trailer]]></title>
+            <description><![CDATA[<article><h1>Magic Duels - Eldritch Moon Trailer</h1><p>MORE CARDS. MORE STRATEGY. BIGGER STORY. Summon mythical creatures. Cast legendary spells. Match wits with your opponent and emerge victorious in epic online duels. With hundreds of earnable cards and countless strategies, building your deck and challenging your friends in Magic: The Gathering has never been more fun.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6281dbed8f39c120a2405b995b55b95/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F2di20AXg5ns%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2di20AXg5ns</link>
+            <guid isPermaLink="false">83b9248b-dde4-4099-85a3-ab971c3ef521</guid>
+            <pubDate>Mon, 25 Jul 2016 08:07:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inside accolades trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Gears of War 4 - Campaign Gameplay</h1><p>In this short gameplay demo of Gears of War 4, our heroes JD, Del, Kait and Marcus Fenix are in pursuit of creatures called the Swarm. With their village destroyed and Kait's mom abducted, the squad gives chase through the wilds of Sera and must battle through an incredible storm.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2cdcb16c743b84244501a1e8ae4a6209/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLilVIs0pI3w%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=LilVIs0pI3w</link>
             <guid isPermaLink="false">aa5d31b2-fd94-4a86-8ae3-fdf54902c2e9</guid>
-            <pubDate>Mon, 25 Jul 2016 07:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call of Duty®: Modern Warfare Remastered - Crew Expendable Gameplay]]></title>
-            <description><![CDATA[<article><h1>Call of Duty®: Modern Warfare Remastered - Crew Expendable Gameplay</h1><p>Call of Duty®: Modern Warfare, one of the most critically-acclaimed games of all time, is back and better than ever. Relive one of the most memorable missions from the Modern Warfare campaign in this "Crew Expendable" playthrough.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb162220968e261bd36302284dbb509/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FiD9sYc_g6vo%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=iD9sYc_g6vo</link>
-            <guid isPermaLink="false">bb4e00c3-509f-4611-a5c7-9f5490c5a54e</guid>
             <pubDate>Mon, 25 Jul 2016 07:48:45 GMT</pubDate>
         </item>
     </channel>
