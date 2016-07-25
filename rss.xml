@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 08:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 08:07:36 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Halo Wars 2 Story Vidoc]]></title>
+            <description><![CDATA[<article><h1>Halo Wars 2 Story Vidoc</h1><p>Know Your Enemy: The Story and Characters of Halo Wars 2. Join 343 Industries for a glimpse into the task of bringing beloved heroes back into the fold after three decades adrift in space. What new adventures await them in this new galaxy? What new allies and adversaries will they meet?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f48e2490d49bf769c9b22bd5ed81e7f3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FBv-VAGUuc34%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Bv-VAGUuc34</link>
+            <guid isPermaLink="false">0818c1d1-1efd-415d-b2b1-41446073eae9</guid>
+            <pubDate>Mon, 25 Jul 2016 08:07:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Turing Test - Coming to Xbox One August 30th 2016]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Worms WMD All Star Pack</h1><p>The worms are back in their most destructive game yet. With a gorgeous, hand-drawn 2D look, brand new weapons, the introduction of crafting, vehicles and buildings plus the return of some much-loved classic weapons and gameplay, Worms W.M.D is the best worms experience ever.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ee4d5e1c1ae25b96988498f254069de/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F4Kq5SVHEfYs%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=4Kq5SVHEfYs</link>
             <guid isPermaLink="false">8ef83ce6-3704-41b6-8859-35ca1253bdb3</guid>
-            <pubDate>Sun, 24 Jul 2016 10:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forza Motorsport 6 Turn 10 Select Car Pack]]></title>
-            <description><![CDATA[<article><h1>Forza Motorsport 6 Turn 10 Select Car Pack</h1><p>Arriving today for Forza Motorsport 6, the Turn 10 Select Car Pack features one of the most diverse collections of cars ever seen in Forza history, with each vehicle hand-picked by the team at Turn 10.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d37a8a9ce719335d380212ee083f07dc/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FZsP0dZ3jB6c%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ZsP0dZ3jB6c</link>
-            <guid isPermaLink="false">5344a0e9-b054-4f99-bec2-1f0e674bca78</guid>
             <pubDate>Sun, 24 Jul 2016 10:06:55 GMT</pubDate>
         </item>
     </channel>
