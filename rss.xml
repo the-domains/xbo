@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 11:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 11:01:18 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Happy Few - Gameplay Trailer]]></title>
-            <description><![CDATA[<article><h1>We Happy Few - Gameplay Trailer</h1><p>We Happy Few is available today on Xbox One! We Happy Few is the tale of a plucky bunch of moderately terrible people trying to escape from a lifetime of cheerful denial. If you think you have what it takes to blend in and try to survive in a society that hates Downers, then come and join us in the procedural world of Wellington Wells.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/84b66d88e7c1060ed672a7b11b17037e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fb_1W5HVUd3c%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=b_1W5HVUd3c</link>
-            <guid isPermaLink="false">689cbaa2-7ed1-4303-bcf7-4e1bcc6b17b5</guid>
-            <pubDate>Thu, 28 Jul 2016 11:00:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Return to Willamette: Behind the Scenes with Dead Rising 4]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Maldita Castilla EX - Cursed Castile Launch Trailer</h1><p>The tears of a young witch have been turned by a demon into a key that opens up a gateway for the evil in this world. The King Alfonso VI of León has gathered his loyal knights to get to Tolomera del Rey and finish the nightmare using the power of the Witch's tears.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b83355b6298c82e2130214c5ccd3e842/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5Hw85jdwUuY%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=5Hw85jdwUuY</link>
             <guid isPermaLink="false">eadb3313-e6ca-4a68-a311-57cb8c44dadd</guid>
+            <pubDate>Mon, 25 Jul 2016 08:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magic Duels - Eldritch Moon Trailer]]></title>
+            <description><![CDATA[<article><h1>Magic Duels - Eldritch Moon Trailer</h1><p>MORE CARDS. MORE STRATEGY. BIGGER STORY. Summon mythical creatures. Cast legendary spells. Match wits with your opponent and emerge victorious in epic online duels. With hundreds of earnable cards and countless strategies, building your deck and challenging your friends in Magic: The Gathering has never been more fun.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6281dbed8f39c120a2405b995b55b95/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F2di20AXg5ns%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2di20AXg5ns</link>
+            <guid isPermaLink="false">83b9248b-dde4-4099-85a3-ab971c3ef521</guid>
             <pubDate>Mon, 25 Jul 2016 08:07:30 GMT</pubDate>
         </item>
     </channel>
