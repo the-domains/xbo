@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 10:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:26:03 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Call of Duty®: Black Ops III - 7/28 Black Market Trailer]]></title>
+            <description><![CDATA[<article><h1>Call of Duty®: Black Ops III - 7/28 Black Market Trailer</h1><p>Call of Duty®: Black Ops III's biggest Black Market update yet has arrived with new Epic Taunts, personalization items, and weapons, including the Peacekeeper MK2 assault rifle, R70 Ajax 3D ammo-printing LMG, DBSR-50 double barrel sniper rifle, and more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/528bfe9e2dfb9d4dda10da149d7bf508/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FdHd0LtbGqxY%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=dHd0LtbGqxY</link>
+            <guid isPermaLink="false">2fb8d36c-307a-4c1a-9540-4934badbfac5</guid>
+            <pubDate>Wed, 03 Aug 2016 10:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Valley Story Teaser]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Call of Duty®: Infinite Warfare - UNSA Retribution Flight Deck Tour</h1><p>Tour the flight deck of the UNSA Retribution, your evolving home base throughout the Infinite Warfare campaign. Pre-order the Legacy Editions or Digital Deluxe Edition and get Call of Duty®: Modern Warfare® Remastered*, the return of one of the most critically-acclaimed games of all time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/136a72d26279d9896a804faacb1762fa/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUJMtOpkg8LA%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=UJMtOpkg8LA</link>
             <guid isPermaLink="false">c8521f24-ba5d-499a-9907-cb2b659d75a0</guid>
-            <pubDate>Thu, 28 Jul 2016 11:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft: Story Mode Episode 7 - 'Access Denied' Trailer]]></title>
-            <description><![CDATA[<article><h1>Minecraft: Story Mode Episode 7 - 'Access Denied' Trailer</h1><p>Continuing their portal journey in search of home, Jesse and crew land in a world entirely controlled by PAMA - a sinister "thinking machine" determined to command everyone and everything in pursuit of optimal usefulness and efficiency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/12e1f6a16be7bff540fd212ce43da95e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F2jaUG-tJ99g%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=2jaUG-tJ99g</link>
-            <guid isPermaLink="false">a17c876c-d15e-4888-80d7-7c7c69feb867</guid>
             <pubDate>Thu, 28 Jul 2016 11:00:49 GMT</pubDate>
         </item>
     </channel>
