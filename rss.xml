@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 10:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:26:32 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#KILLALLZOMBIES - Announcement Trailer]]></title>
+            <description><![CDATA[<article><h1>#KILLALLZOMBIES - Announcement Trailer</h1><p>In the distant future, #KILLALLZOMBIES thrusts civilians into a sport of survival, where a ravenous zombie population is unleashed in the name of sports entertainment. With the potential of a collective horde of over 1,000 zombies, spectators vote upon how many and what kind of zombies or obstacles they want to uncage to make survival easier or harder for you to accomplish.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c322301542563746ab80639b8e8224b/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FwClR6YNmQi8%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wClR6YNmQi8</link>
+            <guid isPermaLink="false">bb257914-d388-4b48-b398-00cf3cc463ab</guid>
+            <pubDate>Wed, 03 Aug 2016 10:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Welcome to the Overwatch Summer Games]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=b_1W5HVUd3c</link>
             <guid isPermaLink="false">689cbaa2-7ed1-4303-bcf7-4e1bcc6b17b5</guid>
             <pubDate>Thu, 28 Jul 2016 11:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Return to Willamette: Behind the Scenes with Dead Rising 4]]></title>
-            <description><![CDATA[<article><h1>Return to Willamette: Behind the Scenes with Dead Rising 4</h1><p>Developers from Capcom Vancouver talk in depth about the exciting new features in Dead Rising 4 and unveil exclusive new gameplay footage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/097d51ea60b016041452787b97022334/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5VujViV1Dcg%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5VujViV1Dcg</link>
-            <guid isPermaLink="false">acec435d-5235-4e94-9d41-f88083df0b33</guid>
-            <pubDate>Thu, 28 Jul 2016 11:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
