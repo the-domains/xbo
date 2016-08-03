@@ -4,7 +4,7 @@
         <description><![CDATA[XBOX News and much more]]></description>
         <link>http://xbo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 10:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 10:26:33 GMT</lastBuildDate>
         <atom:link href="http://xbo.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S - The ultimate games and entertainment system]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rm60PyKdFUo</link>
             <guid isPermaLink="false">d37159ad-24a2-4e12-8756-d00c04a0c221</guid>
             <pubDate>Sun, 24 Jul 2016 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forza Motorsport 6 Turn 10 Summer Car Pack]]></title>
+            <description><![CDATA[<article><h1>Forza Motorsport 6 Turn 10 Summer Car Pack</h1><p>The Turn 10 Summer Car Pack for Forza Motorsport 6 has arrived! Whether you're looking to recreate the legends of motorsport's past, or you want to create yo...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c3b2cfc7dad282aaf1224617a4831a0b/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F6GxsHB9X8kM%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6GxsHB9X8kM</link>
+            <guid isPermaLink="false">52c85898-eb04-4dc3-bdbd-c9654e7b8b04</guid>
+            <pubDate>Wed, 03 Aug 2016 10:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#KILLALLZOMBIES - Announcement Trailer]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Introducing Ana | Overwatch</h1><p>Meet Ana-a battle-scarred agent who would do anything to protect the people closest to her.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1653e24d80619caef97ecf2d475a9b17/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Ft3L2mKqhAgI%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=t3L2mKqhAgI</link>
             <guid isPermaLink="false">7941bf5b-1f67-4191-8248-b54d4dad71d6</guid>
-            <pubDate>Thu, 28 Jul 2016 11:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Happy Few - Gameplay Trailer]]></title>
-            <description><![CDATA[<article><h1>We Happy Few - Gameplay Trailer</h1><p>We Happy Few is available today on Xbox One! We Happy Few is the tale of a plucky bunch of moderately terrible people trying to escape from a lifetime of cheerful denial. If you think you have what it takes to blend in and try to survive in a society that hates Downers, then come and join us in the procedural world of Wellington Wells.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/84b66d88e7c1060ed672a7b11b17037e/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fb_1W5HVUd3c%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=b_1W5HVUd3c</link>
-            <guid isPermaLink="false">689cbaa2-7ed1-4303-bcf7-4e1bcc6b17b5</guid>
             <pubDate>Thu, 28 Jul 2016 11:00:50 GMT</pubDate>
         </item>
     </channel>
