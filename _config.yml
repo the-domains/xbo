@@ -1,7 +1,18 @@
+layout_spectrum: 0.35178923793137074
+typography_spectrum: 0.599491726141423
+color:
+  brandColors:
+    - '#127e11'
+    - '#ffffff'
+    - '#c9c9cb'
+    - '#53b520'
+    - '#70ae6d'
+  brandStrength: 0
+  lightness: 0.22233239142224193
+  saturation: 1
+  rhythmicContrast: 0.942206951091066
 name: XBO.io
 favicon: null
-layout_spectrum: 0.62735
-typography_spectrum: 0.16363
 title: XBOX News and much more
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#127e11'
-    - '#ffffff'
-    - '#c9c9cb'
-    - '#53b520'
-    - '#70ae6d'
-  brandStrength: 0
-  lightness: 0.22233239142224193
-  saturation: 1
-  rhythmicContrast: 0.942206951091066
 purpose: []
